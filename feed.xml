@@ -7,21 +7,11 @@
     <atom:link href="http://example.com" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 14:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:19:34 +0000</lastBuildDate>
     <item>
       <title>Lost in translation im Globus: Das würde nicht einmal für die Pfnüselküste reichen</title>
       <link>https://www.nzz.ch/gesellschaft/lost-in-translation-oder-dieser-globus-reicht-nicht-einmal-fuer-die-pfnueselkueste-ld.1861612</link>
       <description>Das Warenhaus ist zurück am Zürcher Bellevue, mit neuem Gastrokonzept. Die Preise sind hoch, die Erwartungen auch. Zu hoch?</description>
-    </item>
-    <item>
-      <title>Als Jordan Peterson in Dübendorf auftritt, machen fünf junge Leute eine Graffiti-Aktion – das kommt sie nun teuer zu stehen</title>
-      <link>https://www.nzz.ch/zuerich/als-jordan-peterson-in-duebendorf-auftritt-machen-fuenf-junge-leute-eine-graffiti-aktion-das-kommt-sie-nun-teuer-zu-stehen-ld.1862581</link>
-      <description>Sprayereien gegen den kanadischen Psychologen werden erst zwei Jahre später strafrechtlich geahndet.</description>
-    </item>
-    <item>
-      <title>Der Solar-Messias muss ins Gefängnis: Rolf Wägli, der Investoren um ein Vermögen brachte, wird verurteilt</title>
-      <link>https://www.nzz.ch/zuerich/betrug-und-veruntreuung-solar-unternehmer-rolf-waegli-verurteilt-zuerich-ld.1862642</link>
-      <description>Er versprach seinen Kunden gutes Geld für eine gute Sache. Dann betrog er sie.</description>
     </item>
     <item>
       <title>Der Kanton Zürich rechnet mit einem Überschuss von 180 Millionen Franken im neuen Jahr</title>
@@ -89,6 +79,16 @@
       <description>Ein Strafverfahren bringt den Unternehmer in Bedrängnis.</description>
     </item>
     <item>
+      <title>Der Zoo Zürich hat eine neue Forschungsstation – für Wissenschafter und Besucherinnen</title>
+      <link>https://www.nzz.ch/zuerich/zoo-zuerich-eine-forschungsstation-fuer-wissenschafter-und-besucher-ld.1863125</link>
+      <description>In dem Gebäude lassen sich klimatische Bedingungen exakt simulieren. Amphibien wie der Goldene Pfeilgiftfrosch aus dem kolumbianischen Regenwald sollen sich wie zu Hause fühlen.</description>
+    </item>
+    <item>
+      <title>In der Schweiz gibt es immer mehr Fälle von häuslicher Gewalt. Wie der Kanton Zürich dagegen vorgehen will</title>
+      <link>https://www.nzz.ch/zuerich/mehr-haeusliche-gewalt-wie-zuerich-dagegen-ankaempft-ld.1863078</link>
+      <description>Die Politik kämpft gegen Gewalt an Frauen. Sogar zwei politische Widersacher überwinden dafür ihre Differenzen.</description>
+    </item>
+    <item>
       <title>«Wenn ich jetzt durch die Stadt gehe, habe ich das Gefühl, dass alle gegen mich sind»: So erleben eine Syrerin und ein Syrer die Tage seit Asads Sturz</title>
       <link>https://www.nzz.ch/zuerich/syrienkonflikt-so-erleben-syrische-fluechtlinge-in-zuerich-asads-sturz-ld.1861746</link>
       <description>6000 Syrerinnen und Syrer wohnen im Kanton Zürich. Mit dem Ende des Regimes in Syrien hat sich ihr Leben über Nacht verändert.</description>
@@ -114,19 +114,19 @@
       <description>No description</description>
     </item>
     <item>
-      <title>Der Zoo Zürich hat eine neue Forschungsstation – für Wissenschafter und Besucherinnen</title>
-      <link>https://www.nzz.ch/zuerich/zoo-zuerich-eine-forschungsstation-fuer-wissenschafter-und-besucher-ld.1863125</link>
-      <description>In dem Gebäude lassen sich klimatische Bedingungen exakt simulieren. Amphibien wie der Goldene Pfeilgiftfrosch aus dem kolumbianischen Regenwald sollen sich wie zu Hause fühlen.</description>
-    </item>
-    <item>
-      <title>In der Schweiz gibt es immer mehr Fälle von häuslicher Gewalt. Wie der Kanton Zürich dagegen vorgehen will</title>
-      <link>https://www.nzz.ch/zuerich/mehr-haeusliche-gewalt-wie-zuerich-dagegen-ankaempft-ld.1863078</link>
-      <description>Die Politik kämpft gegen Gewalt an Frauen. Sogar zwei politische Widersacher überwinden dafür ihre Differenzen.</description>
-    </item>
-    <item>
       <title>Zu kräftige Statur, zu starker Biss, zu gefährlich: Rottweiler werden im Kanton Zürich ab dem 1. Januar verboten</title>
       <link>https://www.nzz.ch/zuerich/hunde-in-zuerich-rottweiler-werden-verboten-ld.1863281</link>
       <description>Wer schon einen Rottweiler hat, darf ihn behalten, Hund und Besitzer werden aber überprüft. Das Verbot sorgt bei Hundehaltern für Kritik.</description>
+    </item>
+    <item>
+      <title>Verhängnisvolle Beziehung mit deutschem Terrorveteran: Die Bundesanwaltschaft klagt zwei junge Männer aus der Winterthurer Islamistenszene an</title>
+      <link>https://www.nzz.ch/zuerich/verhaengnisvolle-beziehung-mit-deutschem-terrorveteran-die-bundesanwaltschaft-klagt-zwei-junge-maenner-aus-der-winterthurer-islamistenszene-an-ld.1863301</link>
+      <description>Die Schweizer sind einschlägig vorbestraft. Laut Anklage wollten sie nach Syrien reisen und sich dem Islamischen Staat anschliessen.</description>
+    </item>
+    <item>
+      <title>Macht sich ein Hausbesitzer strafbar, wenn eine Katze im Swimmingpool ertrinkt?</title>
+      <link>https://www.nzz.ch/zuerich/ertrunkene-katze-im-pool-hausbesitzer-vor-gericht-fuer-tierquaelerei-ld.1863306</link>
+      <description>Eine Freigänger-Katze aus der Nachbarschaft ertrank im Februar 2021 im Bezirk Bülach in einem halb gefüllten Swimmingpool. Nun steht der Hausbesitzer wegen Tierquälerei vor Gericht.</description>
     </item>
     <item>
       <title>Squid Game 2‘s Cast Teases the New Characters We’ll Be Meeting</title>
@@ -227,26 +227,6 @@
       <title>Superman’s First Trailer Ushers in a New Era of Superhero Films</title>
       <link>https://gizmodo.com/superman-trailer-james-gunn-dc-warner-bros-2000539558</link>
       <description>&lt;img alt="Superman Trailer Lois Clark Kiss" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/12/superman-trailer-lois-clark-kiss.jpg" width="1500" /&gt;&lt;br /&gt;&lt;br /&gt;James Gunn's DC mega movie starring David Corenswet and Rachel Brosnahan opens July 11.</description>
-    </item>
-    <item>
-      <title>Balatro’s creator isn’t happy about the game’s 18-plus rating in Europe</title>
-      <link>https://www.theverge.com/2024/12/18/24324626/balatro-localthunk-18-plus-rating-europe-pegi</link>
-      <description>&lt;figure&gt;
-      &lt;img alt="A screenshot from Balatro." src="https://cdn.vox-cdn.com/thumbor/SLek_jArCDKezrGLj4TxE989nWs=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73795864/ss_075cb45cbfa97d8139fb11f21667d6e35f908640.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: Playstack&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="tBxRS5"&gt;The creator of the poker roguelike &lt;em&gt;Balatro&lt;/em&gt;, who goes by the alias LocalThunk, has been sharing some frustrations over the game’s 18-plus rating in Europe.&lt;/p&gt;
-&lt;p id="id__ww3hddstkv"&gt;“Since PEGI gave us an 18-plus rating for having evil playing cards maybe I should add microtransactions / loot boxes / real gambling to lower that rating to 3-plus like &lt;em&gt;EA Sports FC,&lt;/em&gt;” &lt;a href="https://x.com/LocalThunk/status/1868142749108797590"&gt;LocalThunk posted on X over the weekend&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="45mMzX"&gt;&lt;em&gt;Balatro’s&lt;/em&gt; 18-plus rating isn’t new. The game was originally rated 3-plus, but shortly after its February launch, PEGI bumped it up to 18-plus, as spelled out at the time &lt;a href="https://x.com/PlaystackGames/status/1763614758043795909"&gt;by Playstack&lt;/a&gt;, &lt;em&gt;Balatro’s&lt;/em&gt; publisher. The game was briefly delisted from “a number of digital stores in some countries” as a result.&lt;/p&gt;
-&lt;p id="QmKOLi"&gt;According to &lt;a href="https://pegi.info/search-pegi?q=balatro&amp;amp;op=Search&amp;amp;age[]=&amp;amp;descriptor[]=&amp;amp;publisher=&amp;amp;platform[]=&amp;amp;release_year[]=&amp;amp;page=1&amp;amp;form_build_id=form-UHS_qJPR8y3wmOQu29CLnMnZt4aDd3pN6XBAA02hku8&amp;amp;form_id=pegi_search_form"&gt;PEGI’s page for &lt;em&gt;Balatro&lt;/em&gt;&lt;/a&gt;, the rating was given because the game “features prominent gambling imagery.” PEGI also spells out the following “content specific issues”: &lt;/p&gt;
-&lt;blockquote&gt;&lt;p id="SZvo0g"&gt;This game teaches — by way of images, information and gameplay — skills and knowledge that are used in poker. During gameplay, the player is rewarded with ‘chips’ for playing certain hands. The player is able to access a list of poker hand names. As the player hovers over these poker hands, the game explains what types of cards the player would need in order to play certain hands. As the game goes on, the player becomes increasingly familiar with which hands would earn more points. Because these are hands that exist in the real world, this knowledge and skill could be transferred to a real-life game of poker.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p id="cqlbw8"&gt;While it’s true that the game does feature poker imagery and poker hands that a player could translate into an actual game of poker, it’s worth noting that &lt;em&gt;Balatro&lt;/em&gt; doesn’t actually have any gambling as part of playing the game. (LocalThunk has even &lt;a href="https://x.com/LocalThunk/status/1820752209765961746"&gt;stipulated in their will&lt;/a&gt; that &lt;em&gt;Balatro&lt;/em&gt; can’t be sold or licensed to a gambling company.)&lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="k1DvkP"&gt;&lt;div&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="6aZFMP"&gt;Games like &lt;em&gt;EA Sports FC&lt;/em&gt; include in-game purchases &lt;a href="https://www.ea.com/games/fifa/fut-packs-explained"&gt;with randomized content&lt;/a&gt;, which is what LocalThunk takes issue with. “I’m way more irked at the 3-plus for these games with actual gambling mechanics for children than I am about &lt;em&gt;Balatro&lt;/em&gt; having an 18-plus rating,” &lt;a href="https://x.com/LocalThunk/status/1868540666869121033"&gt;he said on Sunday&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="2ZWf7h"&gt;LocalThunk &lt;a href="https://bsky.app/profile/localthunk.bsky.social/post/3ldmanyal7k2d"&gt;said Wednesday&lt;/a&gt; that they attempted to discuss &lt;em&gt;Balatro’s&lt;/em&gt; rating with PEGI, but “they do not see anything wrong &lt;em&gt;Balatro&lt;/em&gt; being rated 18-plus, nor with &lt;em&gt;EA Sports FC&lt;/em&gt; (and similar games) having a 3-plus rating.” PEGI was “blaming EU laws, blaming storefronts, waiting for the future,” LocalThunk said.&lt;/p&gt;
-&lt;p id="75GX81"&gt;PEGI didn’t immediately reply to a request for comment.&lt;/p&gt;
-&lt;p id="CS2oGY"&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Here are the best AirPods deals you can get right now</title>
@@ -427,9 +407,21 @@
   &lt;p&gt;&lt;a href="https://www.theverge.com/24305485/smart-rings-2024-smart-rings-oura-samsung-galaxy"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Big Tech Will Scour the Globe in Its Search for Cheap Energy</title>
-      <link>https://www.wired.com/story/big-tech-data-centers-cheap-energy/</link>
-      <description>Warehouses full of servers are hungry for power, no matter who supplies it.</description>
+      <title>Microsoft is testing live translation on Intel and AMD Copilot Plus PCs</title>
+      <link>https://www.theverge.com/2024/12/19/24324932/microsoft-live-translation-intel-amd-copilot-plus-pcs</link>
+      <description>&lt;figure&gt;
+      &lt;img alt="Illustration of Copilot Plus PCs" src="https://cdn.vox-cdn.com/thumbor/7lkbNjQuxzMnj5bk3_K940QixDw=/149x0:1771x1081/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73796624/Copilot_PC_Hero.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Microsoft&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="kzhPEy"&gt;Microsoft is previewing live translation on Intel and AMD-based Copilot Plus PCs. The feature &lt;a href="https://blogs.windows.com/windows-insider/2024/12/18/releasing-real-time-translation-in-live-captions-to-more-copilot-pcs-in-the-dev-channel/"&gt;is rolling out now&lt;/a&gt; to Windows 11 Insiders in the Dev Channel, allowing users to translate audio from over 44 languages into English subtitles.&lt;/p&gt;
+&lt;p id="08LEFw"&gt;Live translation, which initially launched on Qualcomm-powered Copilot Plus PCs, works with any audio played through a Copilot Plus PC, whether it’s coming from a YouTube video, a live video conference, or a recording. If the audio is in a supported language, Windows 11 will display real-time captions in English. The feature &lt;a href="https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_faqs"&gt;can currently translate&lt;/a&gt; from Spanish, French, Russian, Chinese, Korean, Arabic, and more.&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt=" " src="https://cdn.vox-cdn.com/thumbor/zm8RxhhJ46q32aWkbFsdoMJEuWY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25797269/live_translation_copilot_plus.jpeg" /&gt;
+      &lt;cite&gt;Image: Microsoft&lt;/cite&gt;
+  &lt;/figure&gt;
+&lt;p id="EHCUh4"&gt;Microsoft has been gradually &lt;a href="https://www.theverge.com/2024/9/3/24234687/microsoft-co-pilot-plus-pcs-intel-features-release-date"&gt;bringing more AI features&lt;/a&gt; to Intel and AMD-powered Copilot Plus PCs. Earlier this month, &lt;a href="https://www.theverge.com/2024/12/6/24314795/microsoft-recall-testing-amd-intel-copilot-plus-pcs"&gt;Microsoft began testing Recall&lt;/a&gt;, which takes snapshots of your activity on a Copilot Plus PC and lets you call up specific memories, on devices with Intel and AMD chips. &lt;/p&gt;
+&lt;p id="V3OyXi"&gt;Microsoft is also rolling out an update to live translation on Qualcomm-equipped Copilot Plus PCs, as Windows 11 Insiders in the Dev Channel can now translate select languages to Simplified Chinese.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hackers Can Jailbreak Digital License Plates to Make Others Pay Their Tolls and Tickets</title>
@@ -677,6 +669,11 @@
       <description>I visited several Japanese arcades, aka game centers, in Tokyo’s Akihabara ward. Here’s some advice about how to get the most out of your visit to gamer’s paradise—and which arcade you shouldn’t miss.</description>
     </item>
     <item>
+      <title>12 WIRED-Recommended Last-Minute Gift Ideas (2024)</title>
+      <link>https://www.wired.com/gallery/extremely-last-minute-gift-ideas/</link>
+      <description>If your Christmas tree is missing a present, these gifts will keep you on the nice list.</description>
+    </item>
+    <item>
       <title>Keys to AI success: Security, sustainability, and overcoming silos</title>
       <link>https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keys-ai-success-security-sustainability-overcoming-silos</link>
       <description>&lt;p&gt;NetApp has shed light on the pressing issues faced by organisations globally as they strive to optimise their strategies for AI success. “2025 is shaping up to be a defining year for AI, as organisations transition from experimentation to scaling their AI capabilities,” said Gabie Boko, NetApp’s Chief Marketing Officer. “Businesses are making significant investments&lt;a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/keys-ai-success-security-sustainability-overcoming-silos/" title="ReadKeys to AI success: Security, sustainability, and overcoming silos"&gt;... Read more &amp;#187;&lt;/a&gt;&lt;/p&gt;
@@ -735,11 +732,6 @@
       <link>https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-might-happen-if-ai-can-feel-emotions</link>
       <description>&lt;p&gt;In a world where artificial intelligence is becoming omnipresent, it&amp;#8217;s fascinating to think about the prospect of AI-powered robots and digital avatars that can experience emotions, similar to humans. AI models lack consciousness and they don&amp;#8217;t have the capacity to feel emotions, but what possibilities might arise if that were to change? The birth of&lt;a class="excerpt-read-more" href="https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/" title="ReadWhat might happen if AI can feel emotions?"&gt;... Read more &amp;#187;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/"&gt;What might happen if AI can feel emotions?&lt;/a&gt; appeared first on &lt;a href="https://www.artificialintelligence-news.com"&gt;AI News&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Glofitamab Produces Durable Remissions in R/R Mantle Cell Lymphoma</title>
-      <link>https://www.onclive.com/view/glofitamab-produces-durable-remissions-in-r-r-mantle-cell-lymphoma</link>
-      <description>Glofitamab generated high response rates and durable remissions in R/R mantle cell lymphoma, including high-risk subgroups, with sustained MRD negativity.</description>
     </item>
     <item>
       <title>Study of RMC-9805 in Participants With KRAS G12D-Mutant Solid Tumors</title>
@@ -885,6 +877,11 @@
       <title>Venetoclax-Based Therapy Is Associated With Worse Outcomes in BTK Inhibitor–Resistant, Chemo-Naive CLL</title>
       <link>https://www.onclive.com/view/venetoclax-based-therapy-is-associated-with-worse-outcomes-in-btk-inhibitor-resistant-chemo-naive-cll</link>
       <description>Venetoclax-based treatment was associated with poorer outcomes CLL previously treated with a BTK inhibitor and naive to chemotherapy.</description>
+    </item>
+    <item>
+      <title>Belantamab Mafodotin, Bortezomib, and Dexamethasone Vs Daratumumab, Bortezomib, and Dexamethasone in Relapsed/Refractory Multiple Myeloma: Overall Survival Analysis and Updated Efficacy Outcomes of the Phase 3 Dreamm-7 Trial</title>
+      <link>https://www.onclive.com/view/belantamab-mafodotin-bortezomib-and-dexamethasone-vs-daratumumab-bortezomib-and-dexamethasone-in-relapsed-refractory-multiple-myeloma-overall-survival-analysis-and-updated-efficacy-outcomes-of-the-phase-3-dreamm-7-trial</link>
+      <description>Dr. Vania Hungria presents the Phase 3 DREAMM-7 trial results, demonstrating that belantamab mafodotin, bortezomib, and dexamethasone (BVd) achieved a statistically significant and clinically meaningful overall survival benefit over daratumumab, bortezomib, and dexamethasone (DVd) in relapsed/refractory multiple myeloma, with deep, durable responses and manageable safety outcomes.</description>
     </item>
     <item>
       <title>The 8 worst technology failures of 2024</title>
@@ -1322,22 +1319,7 @@
       <description>En plus du manque d'eau et des coupures d'électricité, à Mayotte, les sinistrés ont parfois totalement perdu leurs habitations. Face à l'urgence de la situation, le Premier ministre a annoncé un appel à projets pour construire des habitations "immédiatement montables". Une erreur considèrent Camille Cozon Abdourazak et Patrick Coulombel, tous deux architectes.</description>
     </item>
     <item>
-      <title>Guerre au Proche-Orient : Israël est coupable de "crime d'extermination" et d'"actes de génocide" dans la bande de Gaza, affirme Human Rights Watch</title>
-      <link>https://www.francetvinfo.fr/monde/palestine/gaza/guerre-au-proche-orient-israel-est-coupable-de-crime-d-extermination-et-d-actes-de-genocide-dans-la-bande-de-gaza-affirme-human-rights-watch_6960920.html#xtor=RSS-3-[lestitres]</link>
-      <description>Dans une enquête publiée jeudi, l'ONG accuse les autorités israéliennes de priver "intentionnellement les civils palestiniens d'un accès adéquat à l'eau". Israël a réagi en dénonçant un rapport "truffé de mensonges éhontés".</description>
-    </item>
-    <item>
-      <title>"Le cyclone était paradoxalement la partie la plus facile" : une enseignante de Mayotte raconte les difficultés après le passage de Chido</title>
-      <link>https://www.francetvinfo.fr/france/mayotte/temoignage-cyclone-chido-corps-au-bord-de-la-route-peur-d-une-epidemie-impression-de-devoir-survivre-une-enseignante-de-mayotte-raconte-les-jours-d-apres_6964349.html#xtor=RSS-3-[lestitres]</link>
-      <description>Sarah Minas, professeure de collège à Majicavo, affirme qu'un sentiment d'abandon monte chez les habitants. Perplexe face à la lenteur de l'aide humanitaire, elle craint aussi une crise sanitaire.</description>
-    </item>
-    <item>
-      <title>Football : "Quand c'est comme ça, c'est rouge", estime l'ancien arbitre Bruno Derrien après la blessure au visage de Gianluigi Donnarumma</title>
-      <link>https://www.francetvinfo.fr/sports/foot/ligue-1/football-quand-c-est-comme-ca-c-est-rouge-estime-l-ancien-arbitre-bruno-derrien-apres-la-blessure-au-visage-de-gianluigi-donnarumma_6964736.html#xtor=RSS-3-[lestitres]</link>
-      <description>La blessure au visage du gardien parisien après un choc violent, mercredi, a suscité l'effroi et l'incompréhension, alors que le défenseur monégasque n'a pas été sanctionné.</description>
-    </item>
-    <item>
-      <title>Art contemporain : l'artiste japonaise Chiharu Shiota tisse ses toiles au Grand Palais</title>
+      <title>L'artiste japonaise d'art contemporain Chiharu Shiota tisse ses toiles au Grand Palais</title>
       <link>https://www.francetvinfo.fr/culture/coups-de-coeur-culture/art-contemporain-l-artiste-japonaise-chiharu-shiota-tisse-ses-toiles-au-grand-palais_6960932.html#xtor=RSS-3-[lestitres]</link>
       <description>L'exposition offre un aperçu complet de l'œuvre de cette plasticienne avec des installations spectaculaires faites de fils enchevêtrés.</description>
     </item>
@@ -1387,11 +1369,6 @@
       <description>Agnès Fichot appelle à un "consensus, y compris européen" pour redéfinir la notion de consentement dans la loi. Il faut "renverser la charge de la preuve".</description>
     </item>
     <item>
-      <title>Paris 2024 : "C'est un immense raté", regrette Stéphane Houdet champion de tennis fauteuil, alors que le livre officiel des JO fait l'impasse sur les Paralympiques</title>
-      <link>https://www.francetvinfo.fr/jeux-paralympiques/paris-2024-c-est-un-immense-rate-regrette-stephane-houdet-champion-de-tennis-fauteuil-alors-que-le-livre-officiel-des-jo-fait-l-impasse-sur-les-paralympiques_6964658.html#xtor=RSS-3-[lestitres]</link>
-      <description>Un bel album blanc, aux pages dorées, sorti sous la licence officielle Paris 2024, est paru pour les fêtes de Noël. Mais pas une ligne sur les Jeux paralympiques. Les auteurs ont dû rendre leur copie mi-août, soit trois semaines avant la fin des épreuves.</description>
-    </item>
-    <item>
       <title>Judith Godrèche, fer de lance du mouvement Me Too dans le cinéma français, déplore le "silence" des "personnes de pouvoir" dans ce milieu</title>
       <link>https://www.francetvinfo.fr/culture/cinema/festival-de-cannes/judith-godreche-fer-de-lance-du-mouvement-me-too-dans-le-cinema-francais-deplore-le-silence-des-personnes-de-pouvoir-dans-ce-milieu_6964655.html#xtor=RSS-3-[lestitres]</link>
       <description>La comédienne a témoigné devant une commission de députés enquêtant sur les violences sexuelles dans le cinéma.</description>
@@ -1402,14 +1379,24 @@
       <description>La mobilisation avait été lancée dès la mi-novembre par les professionnels du secteur de la culture, inquiets pour leurs emplois.</description>
     </item>
     <item>
+      <title>Un député tué lors d'une fusillade au Parlement d'une région séparatiste de Géorgie</title>
+      <link>https://www.francetvinfo.fr/monde/europe/georgie/un-depute-tue-lors-d-une-fusillade-au-parlement-d-une-region-separatiste-de-georgie_6965042.html#xtor=RSS-3-[lestitres]</link>
+      <description>Un autre député a été blessé dans cette fusillade survenue jeudi à Soukhoumi, la capitale de l'Abkhazie.</description>
+    </item>
+    <item>
       <title>Des géants de l'électroménager vont devoir payer 611 millions d'euros d'amendes pour des ententes sur les prix</title>
       <link>https://www.francetvinfo.fr/economie/entreprises/des-geants-de-l-electromenager-vont-devoir-payer-611-millions-d-euros-d-amendes-pour-des-ententes-sur-les-prix_6964664.html#xtor=RSS-3-[lestitres]</link>
       <description>Boulanger, Darty, Electrolux, LG, SEB ou encore Whirlpool figurent parmi les 12 entreprises sanctionnées par l'Autorité de la concurrence.</description>
     </item>
     <item>
-      <title>Grippe aviaire : ce que l'on sait du premier cas grave détecté chez l'homme aux Etats-Unis</title>
-      <link>https://www.francetvinfo.fr/monde/usa/grippe-aviaire-ce-que-l-on-sait-du-premier-cas-grave-detecte-chez-l-homme-aux-etats-unis_6964508.html#xtor=RSS-3-[lestitres]</link>
-      <description>Le patient, âgé de 65 ans et hospitalisé "dans un état critique", est le 61e cas humain de grippe aviaire détecté depuis avril dans le pays.</description>
+      <title>Paris 2024 : "C'est un immense raté", regrette Stéphane Houdet champion de tennis fauteuil, alors que le livre officiel des JO fait l'impasse sur les Paralympiques</title>
+      <link>https://www.francetvinfo.fr/jeux-paralympiques/paris-2024-c-est-un-immense-rate-regrette-stephane-houdet-champion-de-tennis-fauteuil-alors-que-le-livre-officiel-des-jo-fait-l-impasse-sur-les-paralympiques_6964658.html#xtor=RSS-3-[lestitres]</link>
+      <description>Un bel album blanc, aux pages dorées, sorti sous la licence officielle Paris 2024, est paru pour les fêtes de Noël. Mais pas une ligne sur les Jeux paralympiques. Les auteurs ont dû rendre leur copie mi-août, soit trois semaines avant la fin des épreuves.</description>
+    </item>
+    <item>
+      <title>Rixe mortelle à Paris : le mineur de 16 ans interpellé est présenté à un juge d'instruction en vue de sa mise en examen</title>
+      <link>https://www.francetvinfo.fr/faits-divers/rixe-mortelle-a-paris-le-mineur-de-16-ans-interpelle-est-presente-a-un-juge-d-instruction-en-vue-de-sa-mise-en-examen_6964841.html#xtor=RSS-3-[lestitres]</link>
+      <description>L'adolescent, scolarisé au lycée Rodin à Paris, avait été placé sous contrôle judiciaire mi-octobre pour des faits de vol commis avec violence en réunion.</description>
     </item>
     <item>
       <title>Comment le gouvernement de transition en Syrie donne des gages aux pays occidentaux</title>
@@ -1422,14 +1409,14 @@
       <description>L'alerte sera déclenchée à 2 heures et devrait être maintenue jusqu'à 14 heures vendredi, selon Météo-France.</description>
     </item>
     <item>
-      <title>Rixe mortelle à Paris : le mineur de 16 ans interpellé est présenté à un juge d'instruction en vue de sa mise en examen</title>
-      <link>https://www.francetvinfo.fr/faits-divers/rixe-mortelle-a-paris-le-mineur-de-16-ans-interpelle-est-presente-a-un-juge-d-instruction-en-vue-de-sa-mise-en-examen_6964841.html#xtor=RSS-3-[lestitres]</link>
-      <description>L'adolescent, scolarisé au lycée Rodin à Paris, avait été placé sous contrôle judiciaire mi-octobre pour des faits de vol commis avec violence en réunion.</description>
+      <title>En France, 2024 est l'une des années les plus chaudes depuis 1900, selon Météo-France</title>
+      <link>https://www.francetvinfo.fr/meteo/climat/en-france-2024-est-l-une-des-annees-les-plus-chaudes-depuis-1900-selon-meteo-france_6964904.html#xtor=RSS-3-[lestitres]</link>
+      <description>Marquée par des crues majeures dans plusieurs régions, 2024 figure aussi parmi les années les plus pluvieuses depuis 1959, a annoncé jeudi le prévisionniste.</description>
     </item>
     <item>
-      <title>Affaire Paul Pogba : son frère Mathias condamné à un an de prison ferme</title>
-      <link>https://www.francetvinfo.fr/faits-divers/justice-proces/sequestration-du-footballeur-paul-pogba-en-2022-son-frere-mathias-condamne-a-un-an-de-prison-ferme_6965021.html#xtor=RSS-3-[lestitres]</link>
-      <description>Mathias Pogba a été condamné jeudi par le tribunal correctionnel de Paris pour avoir participé à la séquestration et la tentative d'extorsion visant le footballeur international en 2022.</description>
+      <title>Grippe aviaire : ce que l'on sait du premier cas grave détecté chez l'homme aux Etats-Unis</title>
+      <link>https://www.francetvinfo.fr/monde/usa/grippe-aviaire-ce-que-l-on-sait-du-premier-cas-grave-detecte-chez-l-homme-aux-etats-unis_6964508.html#xtor=RSS-3-[lestitres]</link>
+      <description>Le patient, âgé de 65 ans et hospitalisé "dans un état critique", est le 61e cas humain de grippe aviaire détecté depuis avril dans le pays.</description>
     </item>
     <item>
       <title>"Nous sommes unis sous un seul et même nom" : on a rencontré Ahmed Taha, ancien chef rebelle, prêt à l'unification des groupes armés en Syrie</title>
@@ -1437,9 +1424,14 @@
       <description>Franceinfo a rencontré l'un des premiers chefs rebelles syrien à avoir combattu la dictature Assad. Il assure que l'assemblage des différentes factions est désormais indispensable pour reconstruire une nouvelle Syrie.</description>
     </item>
     <item>
-      <title>En France, 2024 est l'une des années les plus chaudes depuis 1900, selon Météo-France</title>
-      <link>https://www.francetvinfo.fr/meteo/climat/en-france-2024-est-l-une-des-annees-les-plus-chaudes-depuis-1900-selon-meteo-france_6964904.html#xtor=RSS-3-[lestitres]</link>
-      <description>Marquée par des crues majeures dans plusieurs régions, 2024 figure aussi parmi les années les plus pluvieuses depuis 1959, a annoncé jeudi le prévisionniste.</description>
+      <title>Affaire Paul Pogba : son frère Mathias condamné à un an de prison ferme</title>
+      <link>https://www.francetvinfo.fr/faits-divers/justice-proces/sequestration-du-footballeur-paul-pogba-en-2022-son-frere-mathias-condamne-a-un-an-de-prison-ferme_6965021.html#xtor=RSS-3-[lestitres]</link>
+      <description>Mathias Pogba a été condamné jeudi par le tribunal correctionnel de Paris pour avoir participé à la séquestration et la tentative d'extorsion visant le footballeur international en 2022.</description>
+    </item>
+    <item>
+      <title>"Je ne suis pas un terroriste" : au procès de l'assassinat de Samuel Paty, les accusés adressent leurs derniers mots à la famille du professeur</title>
+      <link>https://www.francetvinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/je-ne-suis-pas-un-terroriste-au-proces-de-l-assassinat-de-samuel-paty-les-accuses-adressent-leurs-derniers-mots-a-la-famille-du-professeur_6964931.html#xtor=RSS-3-[lestitres]</link>
+      <description>Six des huit accusés ont pris la parole. Ils ont tenu à se tourner vers la famille de l'enseignant assassiné et, parfois, à émettre des regrets. Ils ont aussi à nouveau clamé leur innocence.</description>
     </item>
     <item>
       <title>Nouveau gouvernement : une trentaine de personnalités présentes à la réunion des forces politiques à Matignon</title>
@@ -1457,29 +1449,14 @@
       <description>Pas moins de 165 médias, dont 76 étrangers, sont accrédités pour couvrir le procès. L'affaire suscite un intérêt puissant tout autour du monde.</description>
     </item>
     <item>
-      <title>Verdict du procès des viols de Mazan : "Il n'y a pas un profil d'hommes qui violent", assure l'avocate Violaine de Filippis</title>
-      <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/verdict-du-proces-des-viols-de-mazan-il-n-y-a-pas-un-profil-d-hommes-qui-violent-assure-l-avocate-me-violaine-de-filippis_6964973.html#xtor=RSS-3-[lestitres]</link>
-      <description>L'avocate, co-fondatrice du collectif Action Juridique Féministe, est l'invitée de franceinfo jeudi 19 décembre.</description>
-    </item>
-    <item>
       <title>"La force de Gisèle Pelicot permet à des femmes comme moi de se réparer" : comment l'affaire des viols de Mazan bouleverse intimement les victimes de viols</title>
       <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/la-force-de-gisele-pelicot-permet-a-des-femmes-comme-moi-de-se-reparer-comment-l-affaire-des-viols-de-mazan-bouleverse-intimement-les-victimes-de-viols_6951065.html#xtor=RSS-3-[lestitres]</link>
       <description>Sept femmes âgées de 24 à 74 ans reviennent sur leur perception du procès des viols de Mazan et regrettent l'aveuglement de la société vis-à-vis d'un "phénomène de masse".</description>
     </item>
     <item>
-      <title>Verdict du procès des viols de Mazan : le détail des peines prononcées contre Dominique Pelicot et ses 50 coaccusés</title>
+      <title>Verdict du procès des viols de Mazan : le détail des peines prononcées contre Dominique Pelicot et ses 50 coaccusés</title>
       <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/verdict-du-proces-des-viols-de-mazan-une-peine-de-vingt-ans-de-prison-prononcee-contre-dominique-pelicot-ses-50-coaccuses-tous-reconnus-coupables_6962732.html#xtor=RSS-3-[lestitres]</link>
       <description>L'ensemble des accusés ont écopé de peines allant de trois ans de prison, dont deux avec sursis, jusqu'à vingt ans de réclusion.</description>
-    </item>
-    <item>
-      <title>"On peut revivre tranquillement maintenant ?" : à Mazan, le verdict de l'affaire Pelicot est vécu comme un soulagement</title>
-      <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/reportage-on-peut-revivre-tranquillement-maintenant-a-mazan-le-verdict-de-l-affaire-pelicot-est-vecu-comme-un-soulagement_6960806.html#xtor=RSS-3-[lestitres]</link>
-      <description>Les peines énoncées jeudi à l'encontre des 51 accusés mettent un point final à une très longue procédure judiciaire. La commune du Vaucluse, sur laquelle les caméras du monde entier se sont braquées, voudrait désormais se faire oublier.</description>
-    </item>
-    <item>
-      <title>"Honte !" : au procès des viols de Mazan, la foule crie sa colère à l'énoncé du verdict devant le tribunal d'Avignon</title>
-      <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/honte-la-foule-crie-sa-colere-a-l-enonce-du-verdict-du-proces-des-viols-de-mazan-devant-le-tribunal-d-avignon_6964793.html#xtor=RSS-3-[lestitres]</link>
-      <description>Les peines prononcées par la cour criminelle du Vaucluse a suscité des remous devant le tribunal où s’étaient amassées de nombreuses personnes venues soutenir Gisèle Pelicot. L’une d’elles a confié son “dégoût” à notre reporter sur place.</description>
     </item>
     <item>
       <title>Viols de Mazan : "Ce procès était une épreuve très difficile", réagit Gisèle Pelicot, "très émue" après le verdict</title>
@@ -1487,9 +1464,24 @@
       <description>La cour criminelle du Vaucluse a condamné jeudi Dominique Pelicot à vingt de prison, la peine maximale, tandis que les 50 autres accusés, tous condamnés, ont écopé de peines souvent inférieures aux réquisitions.</description>
     </item>
     <item>
+      <title>"On peut revivre tranquillement maintenant ?" : à Mazan, le verdict de l'affaire Pelicot est vécu comme un soulagement</title>
+      <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/reportage-on-peut-revivre-tranquillement-maintenant-a-mazan-le-verdict-de-l-affaire-pelicot-est-vecu-comme-un-soulagement_6960806.html#xtor=RSS-3-[lestitres]</link>
+      <description>Les peines énoncées jeudi à l'encontre des 51 accusés mettent un point final à une très longue procédure judiciaire. La commune du Vaucluse, sur laquelle les caméras du monde entier se sont braquées, voudrait désormais se faire oublier.</description>
+    </item>
+    <item>
+      <title>Procès des viols de Mazan : "La justice ne prend jamais ses ordres auprès de la vindicte populaire", répondent des avocates face à la polémique sur le verdict</title>
+      <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/proces-des-viols-de-mazan-la-justice-ne-prend-jamais-ses-ordres-aupres-de-la-vindicte-populaire-repondent-des-avocates-face-a-la-polemique-sur-le-verdict_6965072.html#xtor=RSS-3-[lestitres]</link>
+      <description>Les peines prononcées par la cour criminelle du Vaucluse au procès des viols de Mazan à l'encontre de plusieurs accusés a suscité des remous devant le tribunal.</description>
+    </item>
+    <item>
       <title>Viols de Mazan : "Je pense aux victimes non reconnues"  de violences sexuelles, réagit Gisèle Pelicot après le verdict</title>
       <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/video-viols-de-mazan-je-pense-aux-victimes-non-reconnues-de-violences-sexuelles-reagit-gisele-pelicot-apres-le-verdict_6965006.html#xtor=RSS-3-[lestitres]</link>
       <description>Victime principale dans l'affaire des viols de Mazan, Gisèle Pelicot a déclaré jeudi que "ce procès a été une épreuve très difficile".</description>
+    </item>
+    <item>
+      <title>"Honte !" : au procès des viols de Mazan, la foule crie sa colère à l'énoncé du verdict devant le tribunal d'Avignon</title>
+      <link>https://www.francetvinfo.fr/faits-divers/affaire-des-viols-de-mazan/honte-la-foule-crie-sa-colere-a-l-enonce-du-verdict-du-proces-des-viols-de-mazan-devant-le-tribunal-d-avignon_6964793.html#xtor=RSS-3-[lestitres]</link>
+      <description>Les peines prononcées par la cour criminelle du Vaucluse a suscité des remous devant le tribunal où s’étaient amassées de nombreuses personnes venues soutenir Gisèle Pelicot. L’une d’elles a confié son “dégoût” à notre reporter sur place.</description>
     </item>
     <item>
       <title>Grotte Chauvet : un trésor préhistorique sous haute protection</title>
@@ -1639,12 +1631,7 @@
     <item>
       <title>Séquestration de Paul Pogba : la justice condamne son frère Mathias à un an de prison ferme</title>
       <link>https://www.france24.com/fr/info-en-continu/20241219-%F0%9F%94%B4-s%C3%A9questration-de-paul-pogba-son-fr%C3%A8re-mathias-condamn%C3%A9-%C3%A0-un-an-de-prison-ferme</link>
-      <description>Jugé pour avoir séquestré et tenté d'extorquer avec plusieurs complices de l'argent à son frère, l'international français Paul Pogba, Mathias Pogba a été condamné jeudi à trois ans de prison, dont deux avec sursis.</description>
-    </item>
-    <item>
-      <title>François Bayrou à Matignon : seuls 36% des Français satisfaits, selon un sondage</title>
-      <link>https://www.lefigaro.fr/politique/francois-bayrou-a-matignon-seuls-36-des-francais-satisfaits-selon-un-sondage-20241219</link>
-      <description>Ce taux est nettement inférieur à celui qu’ont connu ses trois prédécesseurs lors de leur entrée en fonction à Matignon, révèle ce sondage Ifop pour Sud Radio paru jeudi 19 décembre.</description>
+      <description>Jugé pour avoir séquestré et tenté d'extorquer de l'argent à son frère, l'international français Paul Pogba, Mathias Pogba a été condamné jeudi à trois ans de prison, dont deux avec sursis. Les cinq autres prévenus écopent de lourdes peines allant jusqu'à huit ans de prison.</description>
     </item>
     <item>
       <title>François Bayrou voit s’éloigner son rêve d’un gouvernement élargi</title>
@@ -1652,9 +1639,9 @@
       <description>Le premier ministre invite jeudi à Matignon les chefs de l’ensemble des forces politiques, hors Insoumis et lepénistes. Il rêve de dévoiler son équipe d’ici à Noël, mais fait face aux exigences des LR et aux réticences des socialistes.</description>
     </item>
     <item>
-      <title>EN DIRECT - Nouveau gouvernement : François Bayrou veut réunir «ceux qui ont échoué», cingle Jean-Philippe Tanguy</title>
+      <title>EN DIRECT - Remaniement : François Bayrou propose aux chefs de parti, sauf RN et LFI, de rentrer au gouvernement</title>
       <link>https://www.lefigaro.fr/politique/en-direct-nouveau-gouvernement-francois-bayrou-sous-pression-les-tractations-se-poursuivent-20241219</link>
-      <description>Le député du RN a raillé la réunion prévue en début d’après-midi à Matignon avec Yaël Braun-Pivet et Gérard Larcher, ainsi que «les présidents de partis et de groupes qui ont eu la responsabilité des affaires du pays à une période ou à une autre de la Ve République».</description>
+      <description>Le premier ministre a aussi avancé aux chefs de partis et groupes parlementaires présents lors d’une réunion à Matignon l’idée de rouvrir une discussion sur la réforme des retraites votée en 2022.</description>
     </item>
     <item>
       <title>«Prendre en compte les intérêts des vivants non humains» : à Lyon, d’étranges formations au «dialogue inter-espèces» financées par la ville</title>
@@ -1682,19 +1669,14 @@
       <description>FIGAROVOX/TRIBUNE - Le 6 décembre à Toulouse, une violente altercation, devenue virale sur les réseaux sociaux, a éclaté entre un chauffeur de bus et deux mineurs, qui refusaient de payer leur titre de transport. La professeur Ophélie Roque y voit le symbole d’une inversion complète des valeurs.</description>
     </item>
     <item>
-      <title>Appréciation de l’âge des «mineurs isolés» à la frontière franco-italienne : la justice rejette la suspension du dispositif</title>
-      <link>https://www.lefigaro.fr/nice/appreciation-de-l-age-des-mineurs-isoles-a-la-frontiere-franco-italienne-la-justice-rejette-la-suspension-du-dispositif-20241219</link>
-      <description>Un protocole expérimenté dans les Alpes-Maritimes pour apprécier l’âge des présumés mineurs isolés, avant leur éventuelle prise en charge, était jugé illégal par une dizaine d’associations d’aide aux migrants, mais aussi par les syndicats de la magistrature et des avocats.</description>
-    </item>
-    <item>
-      <title>Travail à temps partiel : un rapport propose des pistes pour assouplir la réglementation</title>
-      <link>https://www.lefigaro.fr/social/travail-a-temps-partiel-un-rapport-propose-des-pistes-pour-assouplir-la-reglementation-20241219</link>
-      <description>L’Inspection générale des affaires sociales (Igas) formule 20 recommandations afin de garantir qu’un recours accru au temps partiel «se traduise par un meilleur équilibre entre vie privée et vie professionnelle, tout en réduisant la précarité et les contraintes sur les salariés».</description>
-    </item>
-    <item>
       <title>En difficulté, le chantier naval connu pour avoir construit le Titanic bientôt racheté par un groupe public espagnol</title>
       <link>https://www.lefigaro.fr/societes/en-difficulte-le-chantier-naval-connu-pour-avoir-construit-le-titanic-bientot-rachete-par-un-groupe-public-espagnol-20241219</link>
       <description>L’acquisition permettra de préserver plus de 1000 emplois, mais aussi de garantir l’exécution d’un contrat portant sur trois navires de soutien pour la marine britannique, assure le repreneur.</description>
+    </item>
+    <item>
+      <title>Plusieurs sites d'Amazon aux États-Unis en grève, à quelques jours de Noël</title>
+      <link>https://www.lefigaro.fr/social/plusieurs-sites-d-amazon-aux-etats-unis-en-greve-a-quelques-jours-de-noel-20241219</link>
+      <description>Près de 10.000 salariés ont rejoint ce mouvement pour réclamer des hausses de salaires et de meilleures conditions de travail à Amazon, selon le syndicat du géant du e-commerce.</description>
     </item>
     <item>
       <title>«Quelle dignité. Merci, Gisèle Pelicot» : Même les dirigeants politiques étrangers saluent le verdict du procès de Mazan</title>
@@ -1714,7 +1696,7 @@
     <item>
       <title>Procès des viols de Mazan : tous les co-accusés reconnus coupables, mais condamnés à des peines plus faibles que les réquisitions</title>
       <link>https://www.lefigaro.fr/faits-divers/proces-des-viols-de-mazan-aucun-acquittement-pour-les-50-coaccuses-de-dominique-pelicot-20241219</link>
-      <description>INFOGRAPHIE - Les cinquante hommes ont tous été reconnus coupables de viol ou de tentative de viol. Dominique Pelicot, le principal accusé a, quant à lui, écopé de la peine maximale, soit 20 ans de prison.</description>
+      <description>INFOGRAPHIES - Les cinquante hommes ont tous été reconnus coupables de viol ou de tentative de viol. Dominique Pelicot, le principal accusé a, quant à lui, écopé de la peine maximale, soit 20 ans de prison.</description>
     </item>
     <item>
       <title>Impôts, taxes et contrôles : ce que cache le mystérieux numéro fiscal de votre bien immobilier</title>
@@ -1735,6 +1717,11 @@
       <title>Cyclone à Mayotte : le «deuil national» très politique décrété par le président des Comores</title>
       <link>https://www.lefigaro.fr/actualite-france/cyclone-a-mayotte-le-deuil-national-tres-politique-decrete-par-le-president-des-comores-20241219</link>
       <description>DÉCRYPTAGE - Azali Assoumani, à la tête de l’Union des Comores, ne manque pas une occasion de rappeler les revendications territoriales de l’archipel sur le territoire français.</description>
+    </item>
+    <item>
+      <title>Cyclone Chido à Mayotte : les non-assurés seront indemnisés, annonce Emmanuel Macron</title>
+      <link>https://www.lefigaro.fr/conjoncture/cyclone-chido-a-mayotte-les-non-assures-seront-indemnises-annonce-emmanuel-macron-20241219</link>
+      <description>En visite sur l’archipel dévasté par l’ouragan Chido, le président de la République a rejeté les accusations de «démission» de l’État.</description>
     </item>
     <item>
       <title>EN DIRECT - Cyclone Chido à Mayotte : Macron veut «renforcer la lutte contre l’immigration clandestine»</title>
@@ -1972,11 +1959,6 @@
       <description>L’homme fort du régime d’Alpha Condé a été jugé coupable de détournement de fonds publics, d’enrichissement illicite, de blanchiment de capitaux et corruption d’agents publics.</description>
     </item>
     <item>
-      <title>En direct, nouveau gouvernement : François Bayrou reçoit les forces politiques, hors RN et LFI, à Matignon</title>
-      <link>https://www.lemonde.fr/politique/live/2024/12/19/en-direct-nouveau-gouvernement-la-reunion-a-matignon-convoquee-jeudi-par-francois-bayrou-est-une-chimere-juge-mathilde-panot_6454840_823448.html</link>
-      <description>Le premier ministre a adressé mercredi une lettre aux chefs de groupe parlementaire et de parti (excluant La France insoumise, le Rassemblement national et l’Union des droites pour la République), ainsi qu’aux présidents des deux Chambres, les invitant à l’hôtel de Matignon jeudi après-midi afin de leur présenter ses orientations.</description>
-    </item>
-    <item>
       <title>2024 dans le top 5 des années les plus chaudes, malgré la pluie et l’absence de soleil</title>
       <link>https://www.lemonde.fr/planete/article/2024/12/19/malgre-la-pluie-et-l-absence-de-soleil-2024-dans-le-top-5-des-annees-les-plus-chaudes_6457114_3244.html</link>
       <description>Selon le bilan de Météo-France, 2024, marquée par de nombreuses inondations, figurera parmi les dix années les plus pluvieuses et l’une des cinq plus chaudes jamais enregistrées.</description>
@@ -2022,7 +2004,7 @@
       <description>Avec douze ans de retard, le réacteur nucléaire de nouvelle génération de la centrale située à Flamanville, dans la Manche, doit être relié au réseau vendredi 20 décembre, a annoncé EDF.</description>
     </item>
     <item>
-      <title>Natacha Polony quitte la direction de l’hebdomadaire « Marianne », remplacée par Frédéric Taddeï</title>
+      <title>Frédéric Taddeï remplace Natacha Polony à la direction de l’hebdomadaire « Marianne »</title>
       <link>https://www.lemonde.fr/economie/article/2024/12/19/natacha-polony-quitte-la-direction-de-l-hebdomadaire-marianne-remplacee-par-frederic-taddei_6457435_3234.html</link>
       <description>La ligne éditoriale souverainiste portée par la directrice de la rédaction ne convenait plus au milliardaire proeuropéen Daniel Kretinsky, qui tentait de céder le magazine depuis avril. Après deux échecs de reventes, le groupe CMI France annonce finalement son intention de conserver le magazine.</description>
     </item>
@@ -2040,6 +2022,11 @@
       <title>En Géorgie, un député tué et un autre blessé dans une fusillade au Parlement de la région séparatiste d’Abkhazie</title>
       <link>https://www.lemonde.fr/international/article/2024/12/19/en-georgie-un-depute-tue-et-un-autre-blesse-dans-une-fusillade-au-parlement-de-la-region-separatiste-d-abkhazie_6457438_3210.html</link>
       <description>Le service de presse de l’actuel dirigeant séparatiste abkhaze, Badra Gounba, n’a pas donné plus de précisions sur le déroulé, ni sur les auteurs du drame.</description>
+    </item>
+    <item>
+      <title>En direct, nouveau gouvernement : François Bayrou reçoit les forces politiques à Matignon, hors RN et LFI</title>
+      <link>https://www.lemonde.fr/politique/live/2024/12/19/en-direct-nouveau-gouvernement-francois-bayrou-recoit-les-forces-politiques-a-matignon-hors-rn-et-lfi_6454840_823448.html</link>
+      <description>Le premier ministre a adressé mercredi une lettre aux chefs de groupe parlementaire et de parti (excluant La France insoumise, le Rassemblement national et l’Union des droites pour la République), ainsi qu’aux présidents des deux Chambres, les invitant à l’hôtel de Matignon jeudi après-midi afin de leur présenter ses orientations.</description>
     </item>
     <item>
       <title>American-backed forces work to keep ISIS at bay in Syria</title>
@@ -2080,11 +2067,6 @@
       <title>Bronze-Age Britons were cannibalized after massacre, research shows</title>
       <link>https://www.cbsnews.com/news/bronze-age-britons-cannibalized-violent-attack-research/</link>
       <description>Researchers determined that dozens of men, women and children were violently killed and cannibalized in Bronze Age-era England.</description>
-    </item>
-    <item>
-      <title>12/16: CBS Evening News</title>
-      <link>https://www.cbsnews.com/video/121624-cbs-evening-news/</link>
-      <description>Student and teacher killed in Madison, Wisconsin, school shooting; Supreme Court Justice Ketanji Brown Jackson makes Broadway history</description>
     </item>
     <item>
       <title>Ukraine says it assassinated top Russian general</title>
@@ -2192,6 +2174,11 @@
       <description>Officers arrested a woman who was the missing male's partner and another man who was her ex-partner, police said.</description>
     </item>
     <item>
+      <title>Putin laments top general's killing, says he'll meet Trump "any time"</title>
+      <link>https://www.cbsnews.com/news/vladimir-putin-donald-trump-ukraine-war-annual-press-conference/</link>
+      <description>Russia's Vladimir Putin, in his annual marathon news conference, laments "serious blunders" by his security forces and says he'll meet Trump "any time" about Ukraine.</description>
+    </item>
+    <item>
       <title>US funding plan collapses as Trump makes demands days before shutdown</title>
       <link>https://www.theguardian.com/us-news/2024/dec/18/government-funding-trump-shutdown</link>
       <description>&lt;p&gt;Trump rejects bipartisan plan, causing Congress to spiral as lawmakers try to wrap up for holidays amid Friday deadline&lt;/p&gt;&lt;p&gt;Donald Trump abruptly rejected a bipartisan plan on Wednesday to prevent a Christmastime government shutdown, instead telling House speaker Mike Johnson and Republicans to essentially renegotiate – days before a deadline when federal funding runs out.&lt;/p&gt;&lt;p&gt;The president-elect’s sudden entrance into the debate and new demands sent Congress spiraling as lawmakers are trying to wrap up work and head home for the holidays. It leaves Johnson scrambling to engineer a new plan before Friday’s deadline to keep government open.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2024/dec/18/government-funding-trump-shutdown"&gt;Continue reading...&lt;/a&gt;</description>
@@ -2207,29 +2194,19 @@
       <description>&lt;p&gt;French man jailed for 20 years over abuse of ex-wife Gisèle Pelicot. Plus, Human Rights Watch accuses Israel of genocide for restricting Gaza water supply&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed"&gt;Don’t already get First Thing in your inbox? Sign up here&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Good morning.&lt;/p&gt;&lt;p&gt;A panel of judges has declared all of the 51 defendants in France’s mass rape case to be guilty, after a three-month trial that sent shockwaves around the world.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Who are the men convicted of rape and assault?&lt;/strong&gt; They include a soldier, a nurse, a butcher, a truck driver, a supermarket worker and &lt;a href="https://www.theguardian.com/world/2024/oct/23/a-soldier-a-nurse-a-lorry-driver-and-dozens-more-who-are-the-men-accused-over-and-assault-of-gisele-pelicot"&gt;dozens more&lt;/a&gt;. But the Pelicot children have said they are “disappointed by the low sentences”, Agence France-Presse reports.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What happens now?&lt;/strong&gt; “The surge of united feminist feeling that has risen throughout France is a springboard from which we can continue our battle for equality and justice,” said Clémence Guetté, the vice-president of France’s national assembly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Follow our live coverage &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live"&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What levers could Trump pull to attack critics?&lt;/strong&gt; He could use the justice department and Internal Revenue Service to target non-profits and researchers, launch politically motivated investigations and pass legislation to restrict their activities.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What have Trump’s nominees for top government roles said?&lt;/strong&gt; Kash Patel, Trump’s nominee for FBI director, has vowed to “come after” media outlets and non-profits that he falsely claims “helped Joe Biden rig presidential elections”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2024/dec/19/first-thing-51-men-found-guilty-in-pelicot-mass-trial"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Why do Black women consistently vote Democrat?</title>
-      <link>https://www.theguardian.com/us-news/2024/dec/19/why-black-women-vote-democrat</link>
-      <description>&lt;p&gt;No other demographic has maintained the level of voter loyalty for a party as Black women have – experts tell us why&lt;/p&gt;&lt;p&gt;For decades, Black women have been the most ardent supporters of the Democratic party. Most recently, in the 2024 election, they voted for Kamala Harris at 92%. Since 1972, Black people’s overall support for Democrats has stayed at about 90% during a presidential election, with Black women voting even more Democratic than Black men. No other demographic has maintained that level of voter loyalty for a political party.&lt;/p&gt;&lt;p&gt;Donald Trump’s victory over the vice-president, and success with certain voting blocs such as Latino men and white women, has drawn attention to just how differently situated Black women are when compared with other voters.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2024/dec/19/why-black-women-vote-democrat"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>Clergy abuse survivors say there’s still ‘long ways to go’ after sentencing of New Orleans priest</title>
       <link>https://www.theguardian.com/us-news/2024/dec/19/clergy-abuse-survivors-lawrence-hecker-sentence</link>
       <description>&lt;p&gt;One survivor says local archbishop ‘should have been sitting right there next to’ abuser Lawrence Hecker at his hearing&lt;/p&gt;&lt;p&gt;The clergy abuse survivor who successfully pursued a child rape charge against retired Roman Catholic priest &lt;a href="https://www.theguardian.com/us-news/2024/dec/18/new-orleans-catholic-priest-sentenced-lawrence-hecker"&gt;Lawrence Hecker&lt;/a&gt; in New Orleans says the local archbishop “should have been sitting right there next to” the serial molester clergyman at his criminal &lt;a href="https://www.theguardian.com/us-news/2024/dec/18/new-orleans-catholic-priest-sentenced-lawrence-hecker"&gt;sentencing hearing&lt;/a&gt; on Wednesday.&lt;/p&gt;&lt;p&gt;A statement issued by the survivor after the 93-year-old Hecker received a mandatory sentence of life imprisonment Wednesday alluded to how &lt;a href="https://www.theguardian.com/us-news/new-orleans-clergy-abuse"&gt;New Orleans&lt;/a&gt; archbishop Gregory Aymond has repeatedly expressed a desire in the media to “walk with” the victims of the worldwide Catholic church’s decades-old clergy molestation scandal.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2024/dec/19/clergy-abuse-survivors-lawrence-hecker-sentence"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
+      <title>Why do Black women consistently vote Democrat?</title>
+      <link>https://www.theguardian.com/us-news/2024/dec/19/why-black-women-vote-democrat</link>
+      <description>&lt;p&gt;No other demographic has maintained the level of voter loyalty for a party as Black women have – experts tell us why&lt;/p&gt;&lt;p&gt;For decades, Black women have been the most ardent supporters of the Democratic party. Most recently, in the 2024 election, they voted for Kamala Harris at 92%. Since 1972, Black people’s overall support for Democrats has stayed at about 90% during a presidential election, with Black women voting even more Democratic than Black men. No other demographic has maintained that level of voter loyalty for a political party.&lt;/p&gt;&lt;p&gt;Donald Trump’s victory over the vice-president, and success with certain voting blocs such as Latino men and white women, has drawn attention to just how differently situated Black women are when compared with other voters.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2024/dec/19/why-black-women-vote-democrat"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>Revealed: how a US public university courted the gas industry despite climate impacts</title>
       <link>https://www.theguardian.com/environment/2024/dec/19/mcneese-state-university-louisiana-natural-gas</link>
       <description>&lt;p&gt;McNeese State University in Louisiana building a liquefied natural gas center, prompting fears of ‘corporate capture’&lt;/p&gt;&lt;p&gt;One of Louisiana’s top public universities has prompted concerns about “corporate capture” over its expanding relationship with the liquefied natural gas (LNG) industry, despite environmental warnings about pollution and prolonging fossil fuel use.&lt;/p&gt;&lt;p&gt;As the &lt;a href="https://www.theguardian.com/environment/article/2024/jul/24/fossil-fuel-liquified-natural-gas-louisiana"&gt;US’s LNG boom&lt;/a&gt; gained momentum in south-west Louisiana, McNeese State University courted the industry to help launch a new LNG Center of Excellence currently under construction, hired a director doubling as an LNG industry lobbyist, and approached federal regulators to co-locate their own research center at the university, according to emails obtained via public records requests by DeSmog and the Guardian.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2024/dec/19/mcneese-state-university-louisiana-natural-gas"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Minimum term increased for 13-year-olds over Wolverhampton murder</title>
-      <link>https://www.theguardian.com/law/2024/dec/19/minimum-prison-term-increased-for-two-boys-convicted-of-uk</link>
-      <description>&lt;p&gt;Sentences for boys who killed Shawn Seesahai when they were 12, UK’s youngest knife murderers, raised to at least 10 years&lt;/p&gt;&lt;p&gt;Britain’s youngest knife murderers, who killed a 19-year-old man with a machete when they were 12, have had their sentences increased to a 10-year-minimum prison term at the court of appeal.&lt;/p&gt;&lt;p&gt;The two boys, now 13, were initially given life sentences with minimum terms of eight and a half years for the murder of Shawn Seesahai in Wolverhampton in November 2023.&lt;/p&gt; &lt;a href="https://www.theguardian.com/law/2024/dec/19/minimum-prison-term-increased-for-two-boys-convicted-of-uk"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Thames Water to pay £18m penalty after breaking dividend rules</title>
-      <link>https://www.theguardian.com/business/2024/dec/19/thames-water-to-pay-18m-penalty-after-breaking-dividend-rules</link>
-      <description>&lt;p&gt;Regulator says it will claw back £131m in ‘unjustified’ payments as it announces companies can increase bills by 36% by 2030&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/money/2024/dec/19/water-bills-for-households-in-england-and-wales-to-rise"&gt;Water bills for households in England and Wales to rise by 36%&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thames Water will have to pay an £18.2m penalty after the water industry regulator confirmed the troubled utilities company had breached dividend rules.&lt;/p&gt;&lt;p&gt;The Guardian &lt;a href="https://www.theguardian.com/business/2024/dec/18/thames-water-green-light-hike-bills-one-third-by-2030-ofwat"&gt;revealed&lt;/a&gt; on Wednesday that Thames would be penalised over two dividend payments, made in 2023 and 2024, and that it would allow the water company to increase bills by just over a third. The industry watchdog Ofwat confirmed the penalty and bills rise on Thursday.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2024/dec/19/thames-water-to-pay-18m-penalty-after-breaking-dividend-rules"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>HS2 boss blames failure to control costs on rush to start work</title>
@@ -2250,6 +2227,16 @@
       <title>HS2 boss defends spending £100m on ‘bat shed’ that Starmer described as ‘absurd’ – UK politics live</title>
       <link>https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates</link>
       <description>&lt;p&gt;Mark Wild also admitted that HS2 had been rushed and ‘construction started way too early’&lt;/p&gt;&lt;p&gt;In her response to the statement from Karin Smyth, &lt;strong&gt;Caroline Johnson&lt;/strong&gt;, the shadow health minister, suggested the extra money for hospices would not fully compensate the extra costs the sector is facing because of the national insurance increase and the rise in the living wage. She said:&lt;/p&gt;&lt;p&gt;On October 30 the chancellor decided to break her election promise by increasing employers’ national insurance contributions and reducing the threshold at which employer contributions are payable.&lt;/p&gt;&lt;p&gt;It was later confirmed that hospices would not be exempted from this increase in costs. Now the government has announced new funding for the sector, which they had the audacity to call the biggest investment in a generation.&lt;/p&gt;&lt;p&gt;The biggest investment in a generation for hospices has been announced by the government today, ensuring that hospices can continue to deliver the highest quality end of life care possible for their patients, families, and loved ones.&lt;/p&gt;&lt;p&gt;The £100m funding will help hospices this year and next to provide the best end of life care to patients and their families in a supportive and dignified physical environment.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Surge in flu cases risks overwhelming hospitals in England, nursing chief says</title>
+      <link>https://www.theguardian.com/society/2024/dec/19/number-of-people-in-hospital-in-england-with-flu-jumps-41-in-a-week</link>
+      <description>&lt;p&gt;NHS concerned that early ‘flood’ of infections will be made worse by Christmas family gatherings &lt;/p&gt;&lt;p&gt;A surge in flu is causing major problems for NHS hospitals in England and leaving a growing number of people in intensive care, amid warnings that festive gatherings will make things worse.&lt;/p&gt;&lt;p&gt;The service is struggling to deal with a “flood” of flu cases that has arrived unusually early and left more than 2,500 patients needing hospital treatment, NHS England disclosed on Thursday.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2024/dec/19/number-of-people-in-hospital-in-england-with-flu-jumps-41-in-a-week"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Hospices in England to get £100m boost amid closure fears</title>
+      <link>https://www.theguardian.com/society/2024/dec/19/hospices-in-england-to-get-100m-boost-to-help-with-cost-pressures</link>
+      <description>&lt;p&gt;Hospices struggling with increases to wages and NICs say cash is ringfenced and will not ease day-to-day pressures&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates"&gt;UK politics live – latest updates&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hospices in England are to receive a £100m-plus boost to funding amid worries that &lt;a href="https://www.theguardian.com/politics/2024/nov/10/government-expected-help-uk-hospices-hit-national-insurance-rise"&gt;some end-of-life services could close&lt;/a&gt; because of the impact of the national insurance increase and wage rises.&lt;/p&gt;&lt;p&gt;However, the bulk of the money will ringfenced for capital spending, and so cannot be used to help with day-to-day costs. The hospice sector said that while the money was welcome, it was not an answer to recurring cost pressures.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2024/dec/19/hospices-in-england-to-get-100m-boost-to-help-with-cost-pressures"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Husband and wife to be forced apart by Home Office deportation flight</title>
@@ -2317,24 +2304,14 @@
       <description>&lt;p&gt;Dominique Pelicot drugged his wife and invited dozens of men to rape her in their French home over nine years&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live"&gt;Pelicot rape trial verdicts – live updates&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Dominique Pelicot, one of the worst sex offenders in modern French history, has been sentenced to 20 years in prison for drugging his then wife, Gisèle, and inviting dozens of men to rape her in her home in the south of France over almost a decade.&lt;/p&gt;&lt;p&gt;The historic trial of 51 men was held in public after Gisèle Pelicot waived her right to anonymity so that “shame could change sides”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2024/dec/19/gisele-pelicot-trial-husband-jailed-for-20-years-as-all-51-men-found-guilty"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Russia-Ukraine war live: Putin says he is ready for talks ‘any time’ with Trump</title>
-      <link>https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia</link>
-      <description>&lt;p&gt;Russian leader is making annual end-of-year address and fielding questions from reporters&lt;/p&gt;&lt;p&gt;Poland summoned the chargé d’affaires of Belarus (a diplomat of a lower rank acting in place of an ambassador), &lt;strong&gt;Alexei Ponkratiev&lt;/strong&gt;, on Thursday to protest against what it called “aggressive actions” of the Belarusian KGB spy service towards Polish diplomats accredited in Belarus and other countries.&lt;/p&gt;&lt;p&gt;The Polish foreign ministry did not specify what actions it was accusing the Belarus agency of having taken, but said the continuation of such provocations would be met with a “symmetrical response from the Polish side”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>Pelicot rape trial: ‘I never regretted my decision to go public,’ says Gisèle Pelicot as husband and 50 others found guilty</title>
       <link>https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live</link>
       <description>&lt;p&gt;‘I took on this battle’ for my children and grandchildren, says Gisèle Pelicot in first comments after all 51 men found guilty&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/2024/dec/19/gisele-pelicot-trial-husband-jailed-for-20-years-as-all-51-men-found-guilty"&gt;Gisèle Pelicot rape trial: husband jailed for 20 years as all 51 men found guilty&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ahead of the verdicts, the men charged alongside Dominique Pelicot were given the chance to make final statements on Monday. Around half of them simply said “nothing to add”.&lt;/p&gt;&lt;p&gt;Around 15 of them, however, asked Gisèle Pelicot for forgiveness.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Hiker found in Blue Mountains after six days – as it happened</title>
-      <link>https://www.theguardian.com/australia-news/live/2024/dec/19/australia-news-live-vanuatu-eathquake-penny-wong-ukraine-anthony-albanese-peter-dutton-labor-coalition</link>
-      <description>&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/environment/2024/dec/19/albanese-government-coalmine-expansions-approved-boggabri-caval-ridge-horse-pit-lake-vermont-meadowbrook-vulcan-south"&gt;Albanese government approves four coalmine expansions as Greens condemn ‘despicable’ move&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Almost 150 Australians were flown out of Vanuatu overnight after a powerful earthquake hit the Pacific island earlier this week.&lt;/p&gt;&lt;p&gt;The foreign affairs minister, &lt;strong&gt;Penny Wong&lt;/strong&gt;, said the 148 Australian citizens returned home on two Royal Australian Air Force aircraft in a post on X on Thursday morning.&lt;/p&gt; &lt;a href="https://www.theguardian.com/australia-news/live/2024/dec/19/australia-news-live-vanuatu-eathquake-penny-wong-ukraine-anthony-albanese-peter-dutton-labor-coalition"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Albanese government approves four coalmine expansions as Greens condemn ‘despicable’ move</title>
-      <link>https://www.theguardian.com/environment/2024/dec/19/albanese-government-coalmine-expansions-approved-boggabri-caval-ridge-horse-pit-lake-vermont-meadowbrook-vulcan-south</link>
-      <description>&lt;p&gt;Tanya Plibersek says projects in NSW and Queensland produce coal for making essential steel as critics say move ‘opposite of climate action’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/australia-news/live/2024/dec/19/australia-news-live-vanuatu-eathquake-penny-wong-ukraine-anthony-albanese-peter-dutton-labor-coalition"&gt;Follow our Australia news live blog for latest updates&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Albanese government has approved the expansion of four coalmines that climate campaigners estimate will release more than 850m tonnes of CO2 over their lifetime – equivalent to almost double Australia’s annual emissions.&lt;/p&gt;&lt;p&gt;The four mines will target mostly coal to be used for steelmaking with some thermal coal for burning in power stations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/email-newsletters?CMP=copyembed"&gt;Sign up for Guardian Australia’s breaking news email&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2024/dec/19/albanese-government-coalmine-expansions-approved-boggabri-caval-ridge-horse-pit-lake-vermont-meadowbrook-vulcan-south"&gt;Continue reading...&lt;/a&gt;</description>
+      <title>Russia-Ukraine war live: Putin says he is ready for talks ‘any time’ with Trump</title>
+      <link>https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia</link>
+      <description>&lt;p&gt;Russian leader is making annual end-of-year address and fielding questions from reporters&lt;/p&gt;&lt;p&gt;Poland summoned the chargé d’affaires of Belarus (a diplomat of a lower rank acting in place of an ambassador), &lt;strong&gt;Alexei Ponkratiev&lt;/strong&gt;, on Thursday to protest against what it called “aggressive actions” of the Belarusian KGB spy service towards Polish diplomats accredited in Belarus and other countries.&lt;/p&gt;&lt;p&gt;The Polish foreign ministry did not specify what actions it was accusing the Belarus agency of having taken, but said the continuation of such provocations would be met with a “symmetrical response from the Polish side”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Police ignored allegations against Queensland paedophile 13 years before his arrest, mother claims</title>
@@ -2355,6 +2332,16 @@
       <title>Michael Leunig, Australian cartoonist, dies aged 79</title>
       <link>https://www.theguardian.com/australia-news/2024/dec/19/michael-leunig-australian-cartoonist-dies-aged-79</link>
       <description>&lt;p&gt;During his final days, Leunig was surrounded by his children, loved ones, classical music and sunflowers, his studio announced on social media&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Australian cartoonist, Michael Leunig, has died aged 79, his studio announced on Instagram on Thursday night.&lt;/p&gt;&lt;p&gt;“The pen has run dry, its ink no longer flowing — yet Mr. Curly and his ducks will remain etched in our hearts, cherished and eternal,” the post read.&lt;/p&gt; &lt;a href="https://www.theguardian.com/australia-news/2024/dec/19/michael-leunig-australian-cartoonist-dies-aged-79"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>‘It would deflate our world’: how NDIS cuts to music therapy may silence Ava’s voice</title>
+      <link>https://www.theguardian.com/australia-news/2024/dec/19/ndis-cuts-music-therapy-ndia-bill-shorten-review</link>
+      <description>&lt;p&gt;Ava communicates with her friends and family through music but a government policy change is threatening that vital human connection&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ava Rinna communicates with friends and family through music but her weekly sessions could be cut if a review finds her therapy is not suitable for NDIS funding.&lt;/p&gt;&lt;p&gt;The 19-year-old woman from the Gold Coast has been diagnosed with autism level 3 and is mostly non-verbal, apart from communicating through songs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/email-newsletters?CMP=copyembed"&gt;Sign up for Guardian Australia’s breaking news email&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/australia-news/2024/dec/19/ndis-cuts-music-therapy-ndia-bill-shorten-review"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Pregnant women and unborn babies face severe fatality risk in a bird flu pandemic, study finds</title>
+      <link>https://www.theguardian.com/australia-news/2024/dec/20/australia-bird-flu-pandemic-risks-pregnant-women-unborn-babies</link>
+      <description>&lt;p&gt;While the risk of a H5N1 pandemic in humans is low, ‘it’s really important to think about vulnerable populations’, says Melbourne researcher&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Most pregnant women &lt;a href="https://www.theguardian.com/world/2024/oct/24/bird-flu-h1n1-outbreak-testing"&gt;who contract bird flu&lt;/a&gt; will die, according to an Australian review of infections that found most unborn babies with the virus also die.&lt;/p&gt;&lt;p&gt;Caused by influenza A viruses, a severe strain of bird flu known as Highly Pathogenic Avian Influenza A (H5N1) is spreading globally.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/email-newsletters?CMP=copyembed"&gt;Sign up for Guardian Australia’s breaking news email&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/australia-news/2024/dec/20/australia-bird-flu-pandemic-risks-pregnant-women-unborn-babies"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Mother of Filipina who spent 15 years on death row in Indonesia calls for pardon</title>
@@ -2772,9 +2759,9 @@
       <description>Israel launched air strikes targeting Houthi military targets, including ports, power plants, and oil factories in Yemen's capital Sanaa and the strategic port city of Hodeidah on Thursday, killing at least nine people after the military said it had intercepted a Houthi missile targeting central Israel.</description>
     </item>
     <item>
-      <title>Live: Gisèle Pelicot says she 'respects the court and its verdict' after mass rape trial</title>
+      <title>Gisèle Pelicot says she 'respects the court and its verdict' after mass rape trial</title>
       <link>https://www.france24.com/en/europe/20241219-live-france-awaits-51-verdicts-in-historic-pelicot-mass-rape-trial</link>
-      <description>French judges on Thursday found 51 defendants guilty of the mass rape of Gisèle Pelicot during decades of abuse orchestrated by her ex-husband Dominique Pelicot. The former couple’s children said they were “disappointed with the low sentences” which saw defendants handed between three and 20 years in prison. Follow our liveblog for all the latest developments.</description>
+      <description>French judges on Thursday found 51 defendants guilty of the mass rape of Gisèle Pelicot during decades of abuse orchestrated by her ex-husband Dominique Pelicot. Gisèle Pelicot said she respected the verdict of the court and did not regret her decision to make the trial public. Read our liveblog to see how the day's events unfolded.</description>
     </item>
     <item>
       <title>Ghana gives green light to anti-LGBTQ+ bill</title>
