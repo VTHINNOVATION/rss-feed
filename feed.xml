@@ -7,7 +7,7 @@
     <atom:link href="http://example.com" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 14:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:58:24 +0000</lastBuildDate>
     <item>
       <title>KURZMELDUNGEN - Polizei-News aus Zürich: Senior, der auf dem Fussgängerstreifen von Tram erfasst wurde, ist Verletzungen erlegen</title>
       <link>https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-senior-der-von-tram-erfasst-wurde-erliegt-verletzung-ld.1861018</link>
@@ -204,7 +204,7 @@
       <description>&lt;img alt="Apple Pencil Deal" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/12/apple-pencil-deal.jpg" width="1500" /&gt;&lt;br /&gt;&lt;br /&gt;You don’t usually see discounts on this Apple pencil, but it’s nearly 40% off today.</description>
     </item>
     <item>
-      <title>Flat Earther Expedition to Antartica Bolsters Case That Our Planet is Round</title>
+      <title>Flat Earther Expedition to Antartica Bolsters Case That Our Planet Is Round</title>
       <link>https://gizmodo.com/flat-earther-expedition-to-antartica-bolsters-case-that-our-planet-is-round-2000540677</link>
       <description>&lt;img alt="Team of people in Antarctica" class="attachment-full size-full wp-post-image" height="1080" src="https://gizmodo.com/app/uploads/2024/12/team-of-people-in-Antarctica-.jpg" width="1920" /&gt;&lt;br /&gt;&lt;br /&gt;Conspiracy theorist influencers set out to prove the shape of our planet.</description>
     </item>
@@ -840,6 +840,11 @@
       <description>From a new law on concealing your face to cross-border shopping becoming less lucrative — these are some of the changes you can expect in Switzerland in January 2025.</description>
     </item>
     <item>
+      <title>Are you one of the winners or losers in Switzerland's 2025 budget?</title>
+      <link>https://www.thelocal.ch/20241219/are-you-one-of-the-winners-or-losers-in-switzerlands-2025-budget</link>
+      <description>The Swiss government is aiming to tackle the huge problem of how to balance its budget for 2025. The financial measures for next year have finally been given the green light but who will they affect you?</description>
+    </item>
+    <item>
       <title>Budget de la culture : manifestation à Nantes contre les coupes drastiques voulues par la présidente de la Région Pays de la Loire</title>
       <link>https://www.francetvinfo.fr/culture/budget-de-la-culture-manifestation-a-nantes-contre-les-coupes-drastiques-voulues-par-la-presidente-de-la-region-pays-de-la-loire_6964844.html#xtor=RSS-3-[lestitres]</link>
       <description>La mobilisation avait été lancée dès la mi-novembre par les professionnels du secteur de la culture, inquiets pour leurs emplois.</description>
@@ -1435,11 +1440,6 @@
       <description>&lt;p&gt;Ukrainian leader responds to Russian president’s claims that countries were on the verge of a deal to end hostilities in April 2022&lt;/p&gt;&lt;p&gt;Poland summoned the chargé d’affaires of Belarus (a diplomat of a lower rank acting in place of an ambassador), &lt;strong&gt;Alexei Ponkratiev&lt;/strong&gt;, on Thursday to protest against what it called “aggressive actions” of the Belarusian KGB spy service towards Polish diplomats accredited in Belarus and other countries.&lt;/p&gt;&lt;p&gt;The Polish foreign ministry did not specify what actions it was accusing the Belarus agency of having taken, but said the continuation of such provocations would be met with a “symmetrical response from the Polish side”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Wednesday Briefing: Russia Arrests a Suspected Assassin</title>
-      <link>https://www.nytimes.com/2024/12/18/briefing/russia-syria-pelicot.html</link>
-      <description>Plus, the big stories of 2024 through our photographers’ eyes.</description>
-    </item>
-    <item>
       <title>Who Is Dominique Pelicot, the Man at the Center of France’s Mass Rape Trial?</title>
       <link>https://www.nytimes.com/2024/12/18/world/europe/france-dominique-pelicot-rape-trial.html</link>
       <description>For over three months, judges and lawyers have tried to grasp the true nature of Dominique Pelicot, who said he had invited dozens of strangers to join him in raping his drugged wife.</description>
@@ -1535,6 +1535,11 @@
       <description>A court sentenced Mr. Pelicot to 20 years after he admitted to drugging and raping his wife, Gisèle, for nearly a decade, and inviting strangers to join him. The case has made her a feminist hero.</description>
     </item>
     <item>
+      <title>‘We Just Want Mercy’: A Gaza Hospital Pleads for a Respite</title>
+      <link>https://www.nytimes.com/2024/12/19/world/middleeast/gaza-hospital-icu.html</link>
+      <description>Medical workers at one of the last functioning hospitals in the north of the territory say the facility has come under heavy attack by Israel this week.</description>
+    </item>
+    <item>
       <title>Elon Musk meets with UK far-right leader Nigel Farage</title>
       <link>https://www.france24.com/en/live-news/20241219-musk-s-possible-meddling-in-uk-politics-stirs-concern</link>
       <description>Tech billionaire Elon Musk's meeting with UK far-right firebrand Nigel Farage on Monday is fuelling concerns over a possible donation to the Reform UK party. Musk has already put his fortune and influence at the service of Donald Trump in the US and concerns are growing that he could seek to influence London's ties with Washington.</description>
@@ -1580,7 +1585,7 @@
       <description>No description</description>
     </item>
     <item>
-      <title>Macron announces day of national mourning for Mayotte after cyclone devastation</title>
+      <title>Macron declares day of national mourning for cyclone-hit Mayotte as December 23</title>
       <link>https://www.france24.com/en/europe/20241219-france-macron-arrives-in-mayotte-assess-cyclone-chido-damage</link>
       <description>French President Emmanuel Macron arrived Thursday in Mayotte to survey the devastation wrought by Cyclone Chido on the Indian Ocean archipelago. French authorities said at least 31 people have died and more than 1,500 people were injured, more than 200 critical.</description>
     </item>
