@@ -7,16 +7,16 @@
     <atom:link href="http://example.com" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 06:52:04 +0000</lastBuildDate>
-    <item>
-      <title>Tech News - Space Exploration Updates</title>
-      <link>https://example.com/space-updates</link>
-      <description>News on recent space missions.</description>
-    </item>
+    <lastBuildDate>Thu, 19 Dec 2024 06:56:16 +0000</lastBuildDate>
     <item>
       <title>Tech News - AI Breakthrough</title>
       <link>https://example.com/ai-breakthrough</link>
       <description>Discover the latest advancements in AI.</description>
+    </item>
+    <item>
+      <title>Tech News - Space Exploration Updates</title>
+      <link>https://example.com/space-updates</link>
+      <description>News on recent space missions.</description>
     </item>
   </channel>
 </rss>
