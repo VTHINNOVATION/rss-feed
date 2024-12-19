@@ -7,7 +7,7 @@
     <atom:link href="http://example.com" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 14:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:42:07 +0000</lastBuildDate>
     <item>
       <title>KURZMELDUNGEN - Polizei-News aus Zürich: Senior, der auf dem Fussgängerstreifen von Tram erfasst wurde, ist Verletzungen erlegen</title>
       <link>https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-senior-der-von-tram-erfasst-wurde-erliegt-verletzung-ld.1861018</link>
@@ -531,6 +531,11 @@
 &lt;p&gt;The post &lt;a href="https://www.artificialintelligence-news.com/news/what-might-happen-if-ai-can-feel-emotions/"&gt;What might happen if AI can feel emotions?&lt;/a&gt; appeared first on &lt;a href="https://www.artificialintelligence-news.com"&gt;AI News&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Long-Term Data Support Continued Use of Brexu-Cel in R/R Mantle Cell Lymphoma</title>
+      <link>https://www.onclive.com/view/long-term-data-support-continued-use-of-brexu-cel-in-r-r-mantle-cell-lymphoma</link>
+      <description>Long-term data from ZUMA-2 displayed durable responses with brexu-cel in relapsed/refractory mantle cell lymphoma.</description>
+    </item>
+    <item>
       <title>Menin Inhibitor–Based Combinations Are Central to Ongoing Research in KMT2A+/NPM1+ AML</title>
       <link>https://www.onclive.com/view/menin-inhibitor-based-combinations-are-central-to-ongoing-research-in-kmt2a-npm1-aml</link>
       <description>Maximilian Stahl, MD, discusses unmet needs in relapsed/refractory AML, highlighting the potential utility menin inhibitors in select populations.</description>
@@ -624,11 +629,6 @@
       <title>Belantamab Mafodotin, Bortezomib, and Dexamethasone Vs Daratumumab, Bortezomib, and Dexamethasone in Relapsed/Refractory Multiple Myeloma: Overall Survival Analysis and Updated Efficacy Outcomes of the Phase 3 Dreamm-7 Trial</title>
       <link>https://www.onclive.com/view/belantamab-mafodotin-bortezomib-and-dexamethasone-vs-daratumumab-bortezomib-and-dexamethasone-in-relapsed-refractory-multiple-myeloma-overall-survival-analysis-and-updated-efficacy-outcomes-of-the-phase-3-dreamm-7-trial</link>
       <description>Dr. Vania Hungria presents the Phase 3 DREAMM-7 trial results, demonstrating that belantamab mafodotin, bortezomib, and dexamethasone (BVd) achieved a statistically significant and clinically meaningful overall survival benefit over daratumumab, bortezomib, and dexamethasone (DVd) in relapsed/refractory multiple myeloma, with deep, durable responses and manageable safety outcomes.</description>
-    </item>
-    <item>
-      <title>Treatment Strategies in 2L R/R FL: When to Treat vs.vs Observe in Relapsed Disease</title>
-      <link>https://www.onclive.com/view/treatment-strategies-in-2l-r-r-fl-when-to-treat-vs-vs-observe-in-relapsed-disease</link>
-      <description>Panelists discuss how the treatment approach for relapsed or progressive follicular lymphoma (R/R FL) in the second-line (2L) setting is evolving, focusing on the role of observation vs intervention and the potential impact of ASH 2024 updates, including the inMIND study with tafasitamab and the EPCORE NHL-2 trial with epcoritamab + R2.</description>
     </item>
     <item>
       <title>The 8 worst technology failures of 2024</title>
@@ -1226,9 +1226,9 @@
       <description>Le Mexicain a annoncé, mercredi, qu’il quittait l’écurie autrichienne, remplacé par le Néo-Zélandais Liam Lawson. Pour la saison 2025, la moitié des monoplaces auront un nouveau pilote.</description>
     </item>
     <item>
-      <title>En direct, guerre en Ukraine : disant avoir été « contraint » de lancer l’offensive, Vladimir Poutine affirme qu’il aurait dû le faire « plus tôt »</title>
+      <title>En direct, guerre en Ukraine : Vladimir Poutine dit avoir été « contraint » de lancer l’offensive, et affirme qu’il aurait dû le faire « plus tôt »</title>
       <link>https://www.lemonde.fr/international/live/2024/12/19/en-direct-guerre-en-ukraine-disant-avoir-ete-contraint-de-lancer-l-offensive-vladimir-poutine-affirme-qu-il-aurait-du-le-faire-plus-tot_6449358_3210.html</link>
-      <description>Le président russe se prête jeudi à sa séance annuelle de questions-réponses, un show télévisé largement mis en scène mais aussi une rare opportunité pour l’interroger sur des sujets qui fâchent.</description>
+      <description>Le président russe s’est prêté jeudi pendant quatre heures trente à sa séance annuelle de questions-réponses. Un show télévisé largement mis en scène, mais aussi une rare opportunité pour les Russes de l’interroger sur des sujets qui fâchent.</description>
     </item>
     <item>
       <title>En Géorgie, un député tué et un autre blessé dans une fusillade au Parlement de la région séparatiste d’Abkhazie</title>
