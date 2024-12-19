@@ -7,7 +7,7 @@
     <atom:link href="http://example.com" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 14:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:56:10 +0000</lastBuildDate>
     <item>
       <title>KURZMELDUNGEN - Polizei-News aus Zürich: Senior, der auf dem Fussgängerstreifen von Tram erfasst wurde, ist Verletzungen erlegen</title>
       <link>https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-senior-der-von-tram-erfasst-wurde-erliegt-verletzung-ld.1861018</link>
@@ -106,12 +106,7 @@
     <item>
       <title>Macht sich ein Hausbesitzer strafbar, wenn eine Katze im Swimmingpool ertrinkt?</title>
       <link>https://www.nzz.ch/zuerich/ertrunkene-katze-im-pool-hausbesitzer-vor-gericht-fuer-tierquaelerei-ld.1863306</link>
-      <description>Eine Freigänger-Katze aus der Nachbarschaft ertrank im Februar 2021 im Bezirk Bülach in einem halb gefüllten Swimmingpool. Nun steht der Hausbesitzer wegen Tierquälerei vor Gericht.</description>
-    </item>
-    <item>
-      <title>Amazon Delays Return-to-Office Mandate in Several Cities for Lack of Office Space</title>
-      <link>https://gizmodo.com/amazon-delays-return-to-office-mandate-in-several-cities-for-lack-of-office-space-2000540406</link>
-      <description>&lt;img alt="Amazon corporate office building in Sunnyvale, California" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/12/Amazon-office-sign-sunnyvale-california.jpg" width="1500" /&gt;&lt;br /&gt;&lt;br /&gt;Some workers won't be returning until May 2025, according to Bloomberg News.</description>
+      <description>Eine Freigängerkatze aus der Nachbarschaft ertrank im Februar 2021 im Bezirk Bülach in einem halb gefüllten Swimmingpool. Nun steht der Hausbesitzer wegen Tierquälerei vor Gericht.</description>
     </item>
     <item>
       <title>Squirrels Caught Hunting and Eating Meat for the First Time</title>
@@ -209,25 +204,9 @@
       <description>&lt;img alt="Apple Pencil Deal" class="attachment-full size-full wp-post-image" height="1000" src="https://gizmodo.com/app/uploads/2024/12/apple-pencil-deal.jpg" width="1500" /&gt;&lt;br /&gt;&lt;br /&gt;You don’t usually see discounts on this Apple pencil, but it’s nearly 40% off today.</description>
     </item>
     <item>
-      <title>DJI escapes US drone ban — but may get banned automatically unless Trump steps in</title>
-      <link>https://www.theverge.com/2024/12/18/24324702/dji-drone-ban-ndaa-trump</link>
-      <description>&lt;figure&gt;
-      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/QpT1O7rWsuqmVzDhZbUYBkVcSGs=/0x0:1043x695/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73795966/air3s_dji.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: DJI&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="QJJoQx"&gt;The US Senate &lt;a href="https://www.reuters.com/world/us/majority-us-senate-backs-massive-defense-bill-voting-continues-2024-12-18/"&gt;has passed&lt;/a&gt; the National Defense Authorization Act (NDAA), the annual defense spending bill, and it may have major consequences for the world’s largest drone company — though not necessarily the immediate ban that China’s DJI feared. &lt;/p&gt;
-&lt;p id="FnOgwX"&gt;While it did not contain the full &lt;a href="https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act"&gt;“Countering CCP Drones Act”&lt;/a&gt; provisions that would have quickly blocked imports of DJI products into the United States, it instead kicks off a one-year countdown until its products (and those of rival dronemaker Autel Robotics) are &lt;em&gt;automatically &lt;/em&gt;banned. &lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="P1KlUx"&gt;&lt;div&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="Zp49Pt"&gt;If DJI cannot convince “an appropriate national security agency” to publicly declare that its products do not “pose an unacceptable risk to the national security of the United States,” the act instructs the FCC to add DJI’s gear to its “covered list” under the Secure and Trusted Communication Networks Act. Not only does that list keep that gear from running on US networks, it bars the FCC from authorizing their internal radios for use in the US, effectively blocking all imports.&lt;/p&gt;
-&lt;p id="RyUPVX"&gt;While none of that would keep US citizens from continuing to use their existing DJI gadgets, it wouldn’t just ban new DJI drones from import into the United States. Every DJI product with a radio or camera, like &lt;a href="https://www.theverge.com/24152949/dji-osmo-pocket-3-opinion"&gt;the &lt;em&gt;Verge&lt;/em&gt; favorite DJI Osmo Pocket 3&lt;/a&gt;, would technically be banned. (The NDAA doesn’t specify just drones, but rather communications and video surveillance equipment.)&lt;/p&gt;
-&lt;p id="n54VdL"&gt;The &lt;a href="https://docs.house.gov/billsthisweek/20241209/RCP_HR5009_xml%5b89%5d.pdf"&gt;text of the bill&lt;/a&gt; (PDF, see page 1084-1088) should theoretically prevent DJI from exploiting the loophole of whitelabeling its drones under other brand names or licensing its technology, too, &lt;a href="https://dronedj.com/2024/06/20/dji-ban-loophole-meet-the-specta-and-specta-mini/"&gt;as it seemed to be doing with the Anzu Robotics Raptor and Cogito Specta&lt;/a&gt;. The bill explicitly tells the FCC to add “any subsidiary, affiliate, or partner” and “any entity to which the named entity has a technology sharing or licensing agreement” to the covered list, too.&lt;/p&gt;
-&lt;p id="G7kiLA"&gt;The bill had already passed the House of Representatives and is headed to President Biden’s desk, where it’s considered a must-sign: it would trigger a partial government shutdown if not signed, and it already passed both houses of Congress with strong bipartisan support.&lt;/p&gt;
-&lt;p id="0PdCLn"&gt;So it’ll really be up to the Trump administration as to whether it wants to rescue the Chinese drone company, in the year after he takes office. Trump may not need to lift a finger if he’d prefer to see fewer DJI products in the country, so the ball’s in DJI’s court. It wouldn’t be surprising if DJI tries to get face time with Trump in the near future — &lt;a href="https://www.theverge.com/2024/12/16/24322852/tiktok-ceo-trump-meeting-ban"&gt;like TikTok, which is more imminently facing a ban&lt;/a&gt;.&lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="eZHs6J"&gt;&lt;div&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="g6lKnc"&gt;Even without the NDAA, DJI was already facing increased US scrutiny, &lt;a href="https://www.theverge.com/2024/10/16/24272188/dji-blames-us-customs-block-import-some-drones"&gt;reporting that its products had begun to see surprise import restrictions&lt;/a&gt; (allegedly over the Uyghur Forced Labor Prevention Act), and making a conscious decision to ship fewer of them into the United States as a result. In October, &lt;a href="https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company"&gt;it sued the US Department of Defense&lt;/a&gt; for labeling it a “Chinese Military Company”.&lt;/p&gt;
-&lt;p id="wY8ySJ"&gt;&lt;a href="https://viewpoints.dji.com/blog/u.s.-congress-finalizes-fy25-national-defense-authorization-act-ndaa-without-countering-ccp-drones-act-heres-what-to-watch-for-in-2025"&gt;In a blog post&lt;/a&gt;, DJI calls it “good news” that the NDAA doesn’t explicitly ban DJI products, but says the US government is singling out Chinese drones for scrutiny, and worries about the fact that the law doesn’t specify a government agency to actually carry out the task of determining whether it poses a risk. &lt;/p&gt;
-&lt;p id="PPDuTj"&gt;“This means that DJI would be prevented from launching new products in the US market through no fault of its own, but simply because no agency chose to take on the work of studying our products,” the company writes. It’s asking Congress to pick a “technically focused agency to assure the assessment is evidence-based,” and to give the company the opportunity to reply.&lt;/p&gt;</description>
+      <title>Flat Earther Expedition to Antartica Bolsters Case That Our Planet is Round</title>
+      <link>https://gizmodo.com/flat-earther-expedition-to-antartica-bolsters-case-that-our-planet-is-round-2000540677</link>
+      <description>&lt;img alt="Team of people in Antarctica" class="attachment-full size-full wp-post-image" height="1080" src="https://gizmodo.com/app/uploads/2024/12/team-of-people-in-Antarctica-.jpg" width="1920" /&gt;&lt;br /&gt;&lt;br /&gt;Conspiracy theorist influencers set out to prove the shape of our planet.</description>
     </item>
     <item>
       <title>Here comes Sandisk with a rebrand</title>
@@ -367,8 +346,23 @@
 
   &lt;p id="JtmF1J"&gt;Browsing Amazon Haul, the online shopping giant’s new $20-and-under bargain bin section, I immediately recognize not just a product, but a specific image. The photo is on a listing for “Timeless Black Dress for Both Casual and Formal Gatherings,” and it is stolen.&lt;/p&gt;
 &lt;p id="VmhJta"&gt;The image actually belongs to a New York-based independent brand called Mirror Palais, which sold the “Daisy Dress” for $545 a few years ago. Elevated by social media algorithms and its celebrity fans, Mirror Palais’ images have traveled &lt;a href="https://web.archive.org/web/20220925120211/https://www.mirrorpalais.com/products/daisy-dress"&gt;from the brand’s website&lt;/a&gt;, to tweets, to Pinterest mood boards, and finally, to the discount section of the world’s largest online retailer, where it is — obviously — not for sale. On Amazon, it’s listed for $7.49. When I add it to my cart, I realize it’s even cheaper: inexplicably and improbably, it is an additional 65 percent off.&lt;/p&gt;
-&lt;p id="GCFmEh"&gt;This one image of a black mini dress does not just appear on random listings on Amazon Haul — you can find it on &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCoduop-Women-s-Sexy-Cocktail-Party-Suspender-Mini-Dress-Spaghetti-Strap-Low-Cut-Bodycon-Short-Dress%2F2726413791&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt; and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256807927998402.html&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F19%2F24322922%2Famazon-haul-aliexpress-shein-temu-fast-fashion-ecommerce" rel="sponsored nofollow noopener" target="_blank"&gt;AliExpress&lt;/a&gt; as well as smaller sites with names like &lt;a href="https://mermaidway.com/products/alexis-black-mini-dress"&gt;Mermaid Way&lt;/a&gt; and &lt;a href="https://vmzona.com/en/dresses-with-short-sleeves-4122.html"&gt;VMzona&lt;/a&gt; — all selling dupes (short for duplicates) of the original Mirror Palais dress. I even find a separate listing on Amazon, in the typically but not unbelievably...&lt;/p&gt;
+&lt;p id="GCFmEh"&gt;This one image of a black mini dress does not just appear on random listings on Amazon Haul — you can find it on &lt;a href="https://www.walmart.com/ip/Coduop-Women-s-Sexy-Cocktail-Party-Suspender-Mini-Dress-Spaghetti-Strap-Low-Cut-Bodycon-Short-Dress/2726413791"&gt;Walmart&lt;/a&gt; and &lt;a href="https://www.aliexpress.us/item/3256807927998402.html"&gt;AliExpress&lt;/a&gt; as well as smaller sites with names like &lt;a href="https://mermaidway.com/products/alexis-black-mini-dress"&gt;Mermaid Way&lt;/a&gt; and &lt;a href="https://vmzona.com/en/dresses-with-short-sleeves-4122.html"&gt;VMzona&lt;/a&gt; — all selling dupes (short for duplicates) of the original Mirror Palais dress. I even find a separate listing on Amazon, in the typically but not unbelievably...&lt;/p&gt;
   &lt;p&gt;&lt;a href="https://www.theverge.com/2024/12/19/24322922/amazon-haul-aliexpress-shein-temu-fast-fashion-ecommerce"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sony now owns a much bigger piece of FromSoftware’s parent company</title>
+      <link>https://www.theverge.com/2024/12/19/24324975/sony-kadokawa-corporation-majority-shareholder-fromsoftware</link>
+      <description>&lt;figure&gt;
+      &lt;img alt="A screenshot from the video game Elden Ring." src="https://cdn.vox-cdn.com/thumbor/ICELJLWhycwvJ2stvAUEBqZpSZE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73796701/malenia.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: FromSoftware&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="tvpMBH"&gt;Sony &lt;a href="https://www.sony.com/en/SonyInfo/News/Press/202412/24-1219E/"&gt;has announced&lt;/a&gt; that it has increased its holdings in Japanese media giant and FromSoftware parent company Kadokawa Corporation. Sony acquired the shares for 50 billion yen or roughly $300 million, bringing its total ownership to 10 percent and making it the Kadokawa’s largest shareholder.&lt;/p&gt;
+&lt;p id="lKbo6R"&gt;The news comes after &lt;a href="https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga"&gt;earlier rumors that Sony was considering acquiring the company&lt;/a&gt; outright. Kadokawa confirmed that Sony had expressed interest in acquiring shares, but that, at the time, no decision had been made. An acquisition would have brought Kadokawa’s considerable holdings in Japanese movie, television, publishing, and video game production — which includes the &lt;em&gt;Elden Ring&lt;/em&gt; developer and&lt;em&gt; Danganronpa&lt;/em&gt; studio Spike Chunsoft — under Sony’s control. &lt;/p&gt;
+&lt;p id="tQA7vg"&gt;Getting its hands on more IP seems to be the name of Sony’s game with this announcement. According to the press release, Sony and Kadokawa will, “discuss specific initiatives for collaboration” regarding adaptation, development, and production of Kadokawa IP.  Or to put it more simply, there’s now a not-small chance that an &lt;em&gt;Elden Ring&lt;/em&gt; live-action movie might be on the way.&lt;/p&gt;
+&lt;p id="FiAU4P"&gt;&lt;/p&gt;
+&lt;p id="jY98JK"&gt;&lt;/p&gt;
+&lt;p id="3PN0yq"&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Study That Called Out Black Plastic Utensils Had a Major Math Error</title>
@@ -901,11 +895,6 @@
       <description>Au total, 108 médicaments disponibles en pharmacies, dont le paracétamol, sont intégrés à cette étape du projet.</description>
     </item>
     <item>
-      <title>Cyclone Chido à Mayotte : Emmanuel Macron annonce un "fonds d'indemnisation" pour les non-assurés</title>
-      <link>https://www.francetvinfo.fr/meteo/cyclone-ouragan/cyclone-chido-a-mayotte/direct-cyclone-chido-a-mayotte-emmanuel-macron-attendu-dans-l-archipel-a-8h30_6964448.html#xtor=RSS-3-[lestitres]</link>
-      <description>Arrivé dans l'archipel jeudi pour une visite qui se prolongera vendredi, le chef de l'Etat a été interpellé sur le sort des victimes dans les bidonvilles.</description>
-    </item>
-    <item>
       <title>Affaire Paul Pogba : son frère Mathias condamné à un an de prison ferme</title>
       <link>https://www.francetvinfo.fr/faits-divers/justice-proces/sequestration-du-footballeur-paul-pogba-en-2022-son-frere-mathias-condamne-a-un-an-de-prison-ferme_6965021.html#xtor=RSS-3-[lestitres]</link>
       <description>Mathias Pogba a été condamné jeudi par le tribunal correctionnel de Paris pour avoir participé à la séquestration et la tentative d'extorsion visant le footballeur international en 2022.</description>
@@ -944,6 +933,11 @@
       <title>A Paris, le butin d'un cambriolage chez un octogénaire évalué à 15 millions d'euros</title>
       <link>https://www.francetvinfo.fr/faits-divers/a-paris-un-cambriolage-chez-un-octogenaire-evalue-a-15-millions-d-euros_6965057.html#xtor=RSS-3-[lestitres]</link>
       <description>"Divers objets de valeur et d'art" ont été dérobés dans cet appartement situé avenue Victor Hugo dans le 16e arrondissement de Paris, précise le parquet.</description>
+    </item>
+    <item>
+      <title>Cyclone Chido à Mayotte : Emmanuel Macron décrète une journée de deuil national lundi 23 décembre</title>
+      <link>https://www.francetvinfo.fr/meteo/cyclone-ouragan/cyclone-chido-a-mayotte/direct-cyclone-chido-a-mayotte-emmanuel-macron-attendu-dans-l-archipel-a-8h30_6964448.html#xtor=RSS-3-[lestitres]</link>
+      <description>Arrivé dans l'archipel jeudi pour une visite qui se prolongera vendredi, le chef de l'Etat a été interpellé sur le sort des victimes dans les bidonvilles.</description>
     </item>
     <item>
       <title>Génocide des Tutsi au Rwanda : la réclusion à perpétuité confirmée en appel pour Philippe Manier</title>
@@ -1031,9 +1025,9 @@
       <description>"C'était une épreuve très difficile", a réagi Gisèle Pelicot après l'annonce du verdict dans le procès des viols de Mazan, annonçant respecter la décision de la cour et les peines prononcées à l'encontre des 51 accusés. "J'ai voulu, en ouvrant ce procès, que la société puisse se saisir des débats et je ne l’ai jamais regretté", a-t-elle affirmé. Suivez notre direct.</description>
     </item>
     <item>
-      <title>Cyclone Chido : face à la détresse des habitants, Emmanuel Macron promet de "rebâtir" Mayotte</title>
+      <title>Cyclone Chido : Macron promet de "rebâtir" Mayotte, journée de deuil national le 23 décembre</title>
       <link>https://www.france24.com/fr/france/20241219-mayotte-emmanuel-macron-est-arriv%C3%A9-dans-archipel-cinq-jours-apr%C3%A8s-le-cyclone-chido-aide</link>
-      <description>Arrivé jeudi sur l'archipel, cinq jours après le passage dévastateur du cyclone Chido, le président de la République a annoncé qu'il voulait "rebâtir" Mayotte avec de nouveaux "critères" et appelé à "renforcer la lutte contre l'immigration clandestine". Emmanuel Macron a également défendu l'action de l'État malgré les pénuries et l'insécurité.</description>
+      <description>Arrivé jeudi sur l'archipel, cinq jours après le passage dévastateur du cyclone Chido, le président de la République a annoncé qu'il voulait "rebâtir" Mayotte avec de nouveaux "critères" et appelé à "renforcer la lutte contre l'immigration clandestine". Malgré les pénuries et l'insécurité, Emmanuel Macron a également défendu l'action de l'État et annoncé une journée de deuil national le 23 décembre.</description>
     </item>
     <item>
       <title>Procès des viols de Mazan : la défense satisfaite du verdict, les féministes indignées</title>
@@ -1066,19 +1060,14 @@
       <description>L’île est en état de «calamité naturelle exceptionnelle» après le passage du cyclone Chido.</description>
     </item>
     <item>
-      <title>Affaire des viols de Mazan : Dominique Pelicot écope de la peine maximale, 20 ans de réclusion criminelle</title>
-      <link>https://www.lefigaro.fr/faits-divers/affaire-des-viols-de-mazan-dominique-pelicot-ecope-de-la-peine-maximale-20-ans-de-reclusion-criminelle-20241219</link>
-      <description>Le principal accusé des viols de Mazan a été déclaré coupable ce jeudi de «viols aggravés» sur son ex-femme.</description>
+      <title>«Gabriel Attal, c’est Pac-Man, il avance et bouffe tout ce qu’il a devant lui»: les indiscrétions du Figaro Magazine</title>
+      <link>https://www.lefigaro.fr/politique/gabriel-attal-c-est-pac-man-il-avance-et-bouffe-tout-ce-qu-il-a-devant-lui-les-indiscretions-du-figaro-magazine-20241219</link>
+      <description>CHRONIQUE - Petites phrases et coulisses de la semaine politique, retrouvez les indiscrétions du Figaro Magazine.</description>
     </item>
     <item>
       <title>Toulouse : «Quand un chauffeur de bus est convoqué par sa direction pour avoir eu le courage de faire son devoir»</title>
       <link>https://www.lefigaro.fr/vox/societe/toulouse-quand-un-chauffeur-de-bus-est-convoque-par-sa-direction-pour-avoir-eu-le-courage-de-faire-son-devoir-20241219</link>
       <description>FIGAROVOX/TRIBUNE - Le 6 décembre à Toulouse, une violente altercation, devenue virale sur les réseaux sociaux, a éclaté entre un chauffeur de bus et deux mineurs, qui refusaient de payer leur titre de transport. La professeur Ophélie Roque y voit le symbole d’une inversion complète des valeurs.</description>
-    </item>
-    <item>
-      <title>Procès des viols de Mazan : «Mon client est hébété», réagit l’avocate de Dominique Pelicot qui n’exclut pas de faire appel</title>
-      <link>https://www.lefigaro.fr/proces-des-viols-de-mazan-mon-client-est-hebete-reagit-l-avocate-de-dominique-pelicot-qui-n-exclut-pas-de-faire-appel-20241219</link>
-      <description>Béatrice Zavarro, celle qui était souvent présentée comme «l’avocate du diable», s’est exprimée dès l’annonce de la condamnation de son client et de ses 50 coaccusés.</description>
     </item>
     <item>
       <title>Un octogénaire cambriolé dans le 16e arrondissement de Paris, le préjudice estimé à 15 millions d’euros</title>
@@ -1101,16 +1090,6 @@
       <description>DÉCRYPTAGE - Azali Assoumani, à la tête de l’Union des Comores, ne manque pas une occasion de rappeler les revendications territoriales de l’archipel sur le territoire français.</description>
     </item>
     <item>
-      <title>EN DIRECT - Cyclone Chido à Mayotte : Macron veut «renforcer la lutte contre l’immigration clandestine»</title>
-      <link>https://www.lefigaro.fr/actualite-france/en-direct-cyclone-chido-emmanuel-macron-attendu-a-mayotte-ce-matin-20241219</link>
-      <description>Le président de la République a annoncé vouloir «rebâtir» Mayotte avec de nouveaux «critères» et «renforcer la lutte contre l’immigration clandestine». «Je ne peux pas laisser dire» que «l’État aurait ici démissionné», a-t-il ajouté.</description>
-    </item>
-    <item>
-      <title>En difficulté, le chantier naval connu pour avoir construit le Titanic bientôt racheté par un groupe public espagnol</title>
-      <link>https://www.lefigaro.fr/societes/en-difficulte-le-chantier-naval-connu-pour-avoir-construit-le-titanic-bientot-rachete-par-un-groupe-public-espagnol-20241219</link>
-      <description>L’acquisition permettra de préserver plus de 1000 emplois, mais aussi de garantir l’exécution d’un contrat portant sur trois navires de soutien pour la marine britannique, assure le repreneur.</description>
-    </item>
-    <item>
       <title>Cyclone Chido à Mayotte : les non-assurés seront indemnisés, annonce Emmanuel Macron</title>
       <link>https://www.lefigaro.fr/conjoncture/cyclone-chido-a-mayotte-les-non-assures-seront-indemnises-annonce-emmanuel-macron-20241219</link>
       <description>En visite sur l’archipel dévasté par l’ouragan Chido, le président de la République a rejeté les accusations de «démission» de l’État.</description>
@@ -1121,19 +1100,9 @@
       <description>INFOGRAPHIES - Les cinquante hommes ont tous été reconnus coupables de viol ou de tentative de viol. Dominique Pelicot, le principal accusé a, quant à lui, écopé de la peine maximale, soit 20 ans de prison.</description>
     </item>
     <item>
-      <title>Plusieurs sites d'Amazon aux États-Unis en grève, à quelques jours de Noël</title>
-      <link>https://www.lefigaro.fr/social/plusieurs-sites-d-amazon-aux-etats-unis-en-greve-a-quelques-jours-de-noel-20241219</link>
-      <description>Près de 10.000 salariés ont rejoint ce mouvement pour réclamer des hausses de salaires et de meilleures conditions de travail à Amazon, selon le syndicat du géant du e-commerce.</description>
-    </item>
-    <item>
       <title>EN DIRECT - Procès des viols de Mazan : «Merci Gisèle !», scande la foule en l’applaudissant à la sortie du tribunal</title>
       <link>https://www.lefigaro.fr/faits-divers/en-direct-proces-des-viols-de-mazan-verdict-imminent-pour-les-50-accuses-20241219</link>
       <description>Des forces de l’ordre ont entouré Gisèle Pelicot, frayant un chemin au milieu des centaines de personnes venues l’acclamer.</description>
-    </item>
-    <item>
-      <title>EN DIRECT - Remaniement : François Bayrou propose aux chefs de parti, sauf RN et LFI, de rentrer au gouvernement</title>
-      <link>https://www.lefigaro.fr/politique/en-direct-nouveau-gouvernement-francois-bayrou-sous-pression-les-tractations-se-poursuivent-20241219</link>
-      <description>Le premier ministre a aussi avancé aux chefs de parti et groupes parlementaires présents lors d’une réunion à Matignon l’idée de rouvrir une discussion sur la réforme des retraites votée en 2022.</description>
     </item>
     <item>
       <title>Affaire Paul Pogba : les maîtres chanteurs du footballeur condamnés à de lourdes peines, son frère Mathias à 1 an ferme</title>
@@ -1141,9 +1110,29 @@
       <description>Les amis du pilier des Bleus ont été reconnus coupables de l’avoir séquestré, puis fait chanter en 2022, pour obtenir 13 millions d’euros. Quelques mois plus tôt, le footballeur avait décidé de prendre ses distances avec cette bande de proches d’enfance qui vivait à ses crochets.</description>
     </item>
     <item>
-      <title>Pourquoi la saison de Noël commence de plus en plus tôt</title>
-      <link>https://www.lemonde.fr/les-decodeurs/article/2024/12/19/pourquoi-la-saison-de-noel-commence-de-plus-en-plus-tot_6456525_4355770.html</link>
-      <description>Achats de sapin et de décorations en novembre, téléfilms et promotions dès octobre : l’ancienne fête ascétique de deux jours s’est muée en saison festive de plus de deux mois. Une tendance qui s’explique par des raisons à la fois commerciales et culturelles.</description>
+      <title>EN DIRECT - Remaniement : François Bayrou propose aux chefs de parti, sauf RN et LFI, de rentrer au gouvernement</title>
+      <link>https://www.lefigaro.fr/politique/en-direct-nouveau-gouvernement-francois-bayrou-sous-pression-les-tractations-se-poursuivent-20241219</link>
+      <description>Le premier ministre a aussi avancé aux chefs de parti et groupes parlementaires présents lors d’une réunion à Matignon l’idée de rouvrir une discussion sur la réforme des retraites votée en 2022.</description>
+    </item>
+    <item>
+      <title>Bruno Le Maire nouveau conseiller d’ASML, géant européen des semi-conducteurs</title>
+      <link>https://www.lefigaro.fr/societes/bruno-le-maire-nouveau-conseiller-d-asml-geant-europeen-des-semi-conducteurs-20241219</link>
+      <description>La Haute Autorité pour la transparence de la vie publique (HATVP) a validé cette reconversion de l’ancien ministre de l’Économie, également professeur dans une école à Lausanne, en Suisse.</description>
+    </item>
+    <item>
+      <title>«Tricoteuses !», «hystériques»... : les images de l’altercation entre un avocat de la défense et des militantes féministes après le verdict des viols de Mazan</title>
+      <link>https://www.lefigaro.fr/flash-actu/tricoteuses-hysteriques-les-images-de-l-altercation-entre-un-avocat-de-la-defense-et-des-militantes-feministes-apres-le-verdict-des-viols-de-mazan-20241219</link>
+      <description>VIDÉO - Christophe Bruschi, avocat de Joseph Cocco, s’en est pris verbalement à des féministes devant le palais de justice d’Avignon, les qualifiant «d’hystériques» et de «mal embouchées».</description>
+    </item>
+    <item>
+      <title>EN DIRECT - Cyclone Chido à Mayotte : Emmanuel Macron annonce une journée de deuil national lundi 23 décembre</title>
+      <link>https://www.lefigaro.fr/actualite-france/en-direct-cyclone-chido-emmanuel-macron-attendu-a-mayotte-ce-matin-20241219</link>
+      <description>«Nos drapeaux seront en berne», a déclaré le président de la République, en déplacement dans le 101e département français dévasté.</description>
+    </item>
+    <item>
+      <title>Équitation : «Notre modèle est envié dans le monde», les chantiers de Frédéric Bouix, le nouveau président de la FFE</title>
+      <link>https://www.lefigaro.fr/sports/equitation/equitation-notre-modele-est-envie-dans-le-monde-souligne-frederic-bouix-nouveau-president-de-la-ffe-20241219</link>
+      <description>Seul candidat à briguer la présidence de l’instance, l’ancien délégué général de la FFE (47 ans) succède à Serge Lecomte, en poste depuis 2004. En dix points, il trace la feuille de route des chantiers qui l’attendent.</description>
     </item>
     <item>
       <title>Nucléaire : les leçons de l’EPR de Flamanville, sur le point d’être connecté au réseau électrique</title>
@@ -1179,16 +1168,6 @@
       <title>2024 dans le top 5 des années les plus chaudes, malgré la pluie et l’absence de soleil</title>
       <link>https://www.lemonde.fr/planete/article/2024/12/19/malgre-la-pluie-et-l-absence-de-soleil-2024-dans-le-top-5-des-annees-les-plus-chaudes_6457114_3244.html</link>
       <description>Selon le bilan de Météo-France, 2024, marquée par de nombreuses inondations, figurera parmi les dix années les plus pluvieuses et l’une des cinq plus chaudes jamais enregistrées.</description>
-    </item>
-    <item>
-      <title>En direct, guerres au Proche-Orient : le Hamas estime que les bombardements israéliens au Yémen constituent une « escalade dangereuse »</title>
-      <link>https://www.lemonde.fr/international/live/2024/12/19/en-direct-guerres-au-proche-orient-le-hamas-estime-que-les-frappes-israeliennes-au-yemen-constituent-une-escalade-dangereuse_6454724_3210.html</link>
-      <description>« Nous considérons cette surenchère comme une escalade dangereuse et une extension de l’agression contre le peuple palestinien, la Syrie et le monde arabe », a affirmé le mouvement islamiste dans un communiqué publié quelques heures après les frappes, dont les autorités israéliennes disent qu’elles répondaient à un tir de missile du « régime terroriste houthiste ».</description>
-    </item>
-    <item>
-      <title>En direct, cyclone Chido à Mayotte : Emmanuel Macron annonce qu’il y restera jusqu’à vendredi, un « hôpital de campagne » sera installé</title>
-      <link>https://www.lemonde.fr/planete/live/2024/12/19/en-direct-cyclone-chido-a-mayotte-on-veut-de-l-eau-emmanuel-macron-interpelle-tout-au-long-de-son-parcours-par-des-habitants-desesperes_6451056_3244.html</link>
-      <description>Le chef de l’Etat a atterri, jeudi matin, à l’aéroport de Mayotte, à bord d’un A330 transportant également de l’eau et des médicaments. Après une reconnaissance aérienne, Emmanuel Macron s’est rendu au centre hospitalier de Mamoudzou.</description>
     </item>
     <item>
       <title>Trophée Jules-Verne : François Gabart et son équipage sont repartis à l’assaut du record du tour du monde</title>
@@ -1236,9 +1215,24 @@
       <description>Le service de presse de l’actuel dirigeant séparatiste abkhaze, Badra Gounba, n’a pas donné plus de précisions sur le déroulé, ni sur les auteurs du drame.</description>
     </item>
     <item>
-      <title>En direct, nouveau gouvernement : François Bayrou reçoit les forces politiques à Matignon, hors RN et LFI</title>
+      <title>En direct, nouveau gouvernement : François Bayrou propose de  « reprendre sans suspendre » la réforme des retraites adoptée en 2023</title>
       <link>https://www.lemonde.fr/politique/live/2024/12/19/en-direct-nouveau-gouvernement-francois-bayrou-recoit-les-forces-politiques-a-matignon-hors-rn-et-lfi_6454840_823448.html</link>
       <description>Le premier ministre a adressé mercredi une lettre aux chefs de groupe parlementaire et de parti (excluant La France insoumise, le Rassemblement national et l’Union des droites pour la République), ainsi qu’aux présidents des deux Chambres, les invitant à l’hôtel de Matignon jeudi après-midi afin de leur présenter ses orientations.</description>
+    </item>
+    <item>
+      <title>En direct, guerres au Proche-Orient : Benyamin Nétanyahou avertit les rebelles houthistes au Yémen : « Celui qui frappe Israël paiera un prix très fort »</title>
+      <link>https://www.lemonde.fr/international/live/2024/12/19/en-direct-guerres-au-proche-orient-benyamin-netanyahou-avertit-les-rebelles-houthistes-au-yemen-celui-qui-frappe-israel-paiera-un-prix-tres-fort_6454724_3210.html</link>
+      <description>Le premier ministre a enregistré une vidéo après que les houthistes ont revendiqué un tir de missile sur Israël. Jeudi matin, l’armée israélienne avait déjà annoncé avoir riposté, en bombardant des ports et l’infrastructure énergétique des houthistes au Yémen, à plus de 1 500 kilomètres au sud d’Israël.</description>
+    </item>
+    <item>
+      <title>Cyclone Chido à Mayotte : Emmanuel Macron annonce une journée de deuil national lundi 23 décembre. Suivez notre direct</title>
+      <link>https://www.lemonde.fr/planete/live/2024/12/19/en-direct-cyclone-chido-a-mayotte-emmanuel-macron-annonce-une-journee-de-deuil-national-lundi-23-decembre_6451056_3244.html</link>
+      <description>Le chef de l’Etat a atterri, jeudi matin, à l’aéroport de Mayotte, à bord d’un A330 transportant également de l’eau et des médicaments. Après une reconnaissance aérienne, Emmanuel Macron s’est rendu au centre hospitalier de Mamoudzou.</description>
+    </item>
+    <item>
+      <title>Procès Pogba : un an de prison ferme pour son frère Mathias, de deux à huit ans pour ses amis d’enfance</title>
+      <link>https://www.lemonde.fr/societe/article/2024/12/19/proces-pogba-un-an-de-prison-ferme-pour-son-frere-mathias-de-deux-a-huit-ans-pour-ses-amis-d-enfance_6457479_3224.html</link>
+      <description>Les six prévenus étaient jugés pour leur implication dans l’affaire de séquestration du footballeur français Paul Pogba. Ils ont été reconnus coupables d’extorsion, de séquestration et de détention ainsi que de la participation à une association de malfaiteurs délictuelle.</description>
     </item>
     <item>
       <title>12/17: CBS Evening News</title>
@@ -1361,11 +1355,6 @@
       <description>&lt;p&gt;Relatives say Al-Bara’ ibn Malik brigade killed young men in Khartoum North during advance from Omdurman&lt;/p&gt;&lt;p&gt;Relatives and rights groups have accused fighters from an Islamist paramilitary force aligned with the Sudanese army of executing dozens of young men on suspicion of cooperating with the Rapid Support Forces in the Khartoum area.&lt;/p&gt;&lt;p&gt;The alleged killings occurred in September after fighters crossed a bridge over the Nile River into the city of Khartoum North from neighbouring Omdurman after weeks of trying.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2024/dec/19/militia-aligned-with-sudanese-army-accused-of-executing-men-in-khartoum"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Inflation fears trump growth concerns among Bank of England’s MPC members</title>
-      <link>https://www.theguardian.com/business/2024/dec/19/inflation-fears-trump-growth-concerns-among-bank-of-englands-mpc-members-interest-rates</link>
-      <description>&lt;p&gt;The monetary policy committee voted six to three to hold interest rates steady despite consumers’ reticence to spend&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/business/live/2024/dec/19/bank-of-england-interest-rate-decision-household-water-bills-ofwat-harland-woolf-usiness-live"&gt;Business live – latest updates&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;There was no doubt in the City that the Bank of England would &lt;a href="https://www.theguardian.com/business/2024/dec/19/bank-of-england-keeps-uk-interest-rates-on-hold-amid-jitters-over-rising-inflation"&gt;hold interest rates at 4.75%&lt;/a&gt;. An increase in &lt;a href="https://www.theguardian.com/business/2024/dec/18/uk-inflation-hits-eight-month-high-adding-to-pressure-to-hold-interest-rates"&gt;annual inflation last month&lt;/a&gt; and a &lt;a href="https://www.theguardian.com/money/2024/dec/17/uk-pay-growth-interest-rate-cut-manufacturing-sector"&gt;sharp rise in wages in the autumn&lt;/a&gt; meant its monetary policy committee (MPC) was widely expected to hold fire on a third rate cut this year.&lt;/p&gt;&lt;p&gt;What many will find more surprising is the yawning gap between the six committee members who voted to hold rates and the three who voted for a reduction.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2024/dec/19/inflation-fears-trump-growth-concerns-among-bank-of-englands-mpc-members-interest-rates"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>Average water bill in England and Wales to rise by 36% over five years</title>
       <link>https://www.theguardian.com/money/2024/dec/19/water-bills-for-households-in-england-and-wales-to-rise</link>
       <description>&lt;p&gt;Firms accused of forcing households to pay for years of underinvestment after Ofwat agrees to increases to help fix sector&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/business/2024/dec/19/thames-water-to-pay-18m-penalty-after-breaking-dividend-rules"&gt;• Thames Water to pay £18m penalty after breaking dividend rules&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Water bills in England and Wales will rise by 36% over the next five years, as suppliers were accused of forcing struggling households to pay for years of underinvestment to fix leaky pipes and cut pollution.&lt;/p&gt;&lt;p&gt;The industry regulator Ofwat said on Thursday that, from next April, it would allow companies to raise average bills by £31 a year, or £157 in total, over the next five years to £597 by 2030 to help pay for investment. That represents a 36% increase before inflation, which will be added on top.&lt;/p&gt; &lt;a href="https://www.theguardian.com/money/2024/dec/19/water-bills-for-households-in-england-and-wales-to-rise"&gt;Continue reading...&lt;/a&gt;</description>
@@ -1398,22 +1387,12 @@
     <item>
       <title>Pelicot rape trial: ‘I never regretted my decision to go public,’ says Gisèle Pelicot as husband and 50 others found guilty – as it happened</title>
       <link>https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live</link>
-      <description>&lt;p&gt;‘I took on this battle’ for my children and grandchildren, says Gisèle Pelicot in first comments after all 51 men found guilty&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/2024/dec/19/gisele-pelicot-trial-husband-jailed-for-20-years-as-all-51-men-found-guilty"&gt;Gisèle Pelicot rape trial: husband jailed for 20 years as all 51 men found guilty&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ahead of the verdicts, the men charged alongside Dominique Pelicot were given the chance to make final statements on Monday. Around half of them simply said “nothing to add”.&lt;/p&gt;&lt;p&gt;Around 15 of them, however, asked Gisèle Pelicot for forgiveness.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live"&gt;Continue reading...&lt;/a&gt;</description>
+      <description>&lt;p&gt;This blog is now closed, you can read our full report on this story here:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/2024/dec/19/gisele-pelicot-trial-husband-jailed-for-20-years-as-all-51-men-found-guilty"&gt;Gisèle Pelicot rape trial: husband jailed for 20 years as all 51 men found guilty&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ahead of the verdicts, the men charged alongside Dominique Pelicot were given the chance to make final statements on Monday. Around half of them simply said “nothing to add”.&lt;/p&gt;&lt;p&gt;Around 15 of them, however, asked Gisèle Pelicot for forgiveness.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Surge in flu cases risks overwhelming hospitals in England, says NHS chief</title>
       <link>https://www.theguardian.com/society/2024/dec/19/number-of-people-in-hospital-in-england-with-flu-jumps-41-in-a-week</link>
-      <description>&lt;p&gt;NHS concerned that early ‘flood’ of infections will be made worse by family gatherings at Christmas &lt;/p&gt;&lt;p&gt;A rise in flu cases is causing big problems for NHS hospitals in England and leaving a growing number of people in intensive care, amid warnings that festive gatherings will make things worse.&lt;/p&gt;&lt;p&gt;The service is struggling to deal with a “flood” of flu cases that have arrived unusually early and left more than 2,500 patients needing hospital treatment, NHS England disclosed on Thursday.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2024/dec/19/number-of-people-in-hospital-in-england-with-flu-jumps-41-in-a-week"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Starmer faces grilling over economy, public services and foreign policy – UK politics live</title>
-      <link>https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates</link>
-      <description>&lt;p&gt;PM to face liaison committee this afternoon&lt;/p&gt;&lt;p&gt;In her response to the statement from Karin Smyth, &lt;strong&gt;Caroline Johnson&lt;/strong&gt;, the shadow health minister, suggested the extra money for hospices would not fully compensate the extra costs the sector is facing because of the national insurance increase and the rise in the living wage. She said:&lt;/p&gt;&lt;p&gt;On October 30 the chancellor decided to break her election promise by increasing employers’ national insurance contributions and reducing the threshold at which employer contributions are payable.&lt;/p&gt;&lt;p&gt;It was later confirmed that hospices would not be exempted from this increase in costs. Now the government has announced new funding for the sector, which they had the audacity to call the biggest investment in a generation.&lt;/p&gt;&lt;p&gt;The biggest investment in a generation for hospices has been announced by the government today, ensuring that hospices can continue to deliver the highest quality end of life care possible for their patients, families, and loved ones.&lt;/p&gt;&lt;p&gt;The £100m funding will help hospices this year and next to provide the best end of life care to patients and their families in a supportive and dignified physical environment.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Chaos in Congress after Trump rejects spending deal as government shutdown nears – live updates</title>
-      <link>https://www.theguardian.com/us-news/live/2024/dec/19/congress-government-shutdown-spending-bill-trump</link>
-      <description>&lt;p&gt;President-elect torpedoes bipartisan plan with less than 48 hours remaining until government shuts down for holidays&lt;/p&gt;&lt;p&gt;Good morning, US politics blog readers. Just yesterday, it seemed like &lt;a href="https://www.theguardian.com/us-news/us-congress"&gt;Congress&lt;/a&gt; was on the verge of enacting legislation to keep the government running for the next three months and prevent a shutdown that would begin after midnight on Friday. But on X, &lt;strong&gt;&lt;a href="https://www.theguardian.com/technology/elon-musk"&gt;Elon Musk&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/vivek-ramaswamy"&gt;Vivek Ramaswamy&lt;/a&gt;&lt;/strong&gt; and other conservatives whose influence grew after &lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/donaldtrump"&gt;Donald Trump&lt;/a&gt;&lt;/strong&gt; won re-election were busy condemning the deal. It was an effort that culminated yesterday afternoon, when the president-elect and &lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/jd-vance"&gt;JD Vance&lt;/a&gt;&lt;/strong&gt; blew up the negotiations entirely by &lt;a href="https://truthsocial.com/@realDonaldTrump/posts/113676124870048584"&gt;declaring&lt;/a&gt; that the bill should be scrapped and replaced with a new one that also increases country’s debt ceiling – a surprise demand that hadn’t been raised previously. The incoming administration’s opposition blew up the funding compromise, and now it is up to the Republican House speaker,&lt;a href="https://www.theguardian.com/us-news/mike-johnson"&gt; &lt;/a&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/mike-johnson"&gt;Mike Johnson&lt;/a&gt;&lt;/strong&gt;, to pick up the pieces, with less than 48 hours remaining until the government shuts down. Needless to say, few in Congress wanted this to happen with the Christmas holiday right around the corner. We’ll find out today if the GOP has it in them to turn the situation around.&lt;/p&gt;&lt;p&gt;Here’s what else we are watching today:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/democrats"&gt;Democrats&lt;/a&gt;&lt;/strong&gt; appear content to let Republicans own the government funding fiasco, with the House minority leader, &lt;strong&gt;Hakeem Jeffries&lt;/strong&gt;, &lt;a href="https://x.com/repjeffries/status/1869493488460669104?s=46"&gt;tweeting&lt;/a&gt; that the GOP has “been ordered to shut down the government”.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The Wall Street Journal&lt;/strong&gt; has published &lt;a href="https://www.wsj.com/politics/biden-white-house-age-function-diminished-3906a839?st=PTbEyo&amp;amp;reflink=article_copyURL_share"&gt;a lengthy look&lt;/a&gt; into how the White House managed &lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/joebiden"&gt;Joe Biden&lt;/a&gt;&lt;/strong&gt;’s public ageing during his presidency and before – which was a major factor in his decision to end his re-election bid earlier this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Biden and &lt;a href="https://www.theguardian.com/us-news/kamala-harris"&gt;Kamala Harris&lt;/a&gt;&lt;/strong&gt; have no public events on their schedule. The president is returning to Washington DC today from Delaware, while the vice-president flies this evening to Los Angeles.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/live/2024/dec/19/congress-government-shutdown-spending-bill-trump"&gt;Continue reading...&lt;/a&gt;</description>
+      <description>&lt;p&gt;Health service concerned that early ‘flood’ of infections will be made worse by family gatherings at Christmas&lt;/p&gt;&lt;p&gt;A rise in flu cases is causing big problems for NHS hospitals in England and leaving a growing number of people in intensive care, amid warnings that festive gatherings will make things worse.&lt;/p&gt;&lt;p&gt;The service is struggling to deal with a “flood” of flu cases that have arrived unusually early and left more than 2,500 patients needing hospital treatment, NHS England disclosed on Thursday.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2024/dec/19/number-of-people-in-hospital-in-england-with-flu-jumps-41-in-a-week"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Minimum term increased for 13-year-olds over Wolverhampton murder</title>
@@ -1426,14 +1405,9 @@
       <description>&lt;p&gt;Federal Aviation Administration issues ban following dozens of night-time drone sightings reported across the state&lt;/p&gt;&lt;p&gt;The Federal Aviation Administration has issued a one-month ban on drone operations in certain areas of &lt;a href="https://www.theguardian.com/us-news/new-jersey"&gt;New Jersey&lt;/a&gt;, unless operators receive special permission from the government due to “special security reasons”.&lt;/p&gt;&lt;p&gt;This comes as &lt;a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know"&gt;dozens of night-time drone sightings&lt;/a&gt; have been reported across New Jersey and other states along the eastern coast of the US over the last several weeks.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2024/dec/19/drones-banned-new-jersey"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Dominique Pelicot faces further investigation for rapes and murder</title>
+      <title>Dominique Pelicot faces further investigation for rape and murder</title>
       <link>https://www.theguardian.com/world/2024/dec/19/dominique-pelicot-further-investigation-rapes-murder</link>
-      <description>&lt;p&gt;Husband of Gisèle Pelicot suspected of raping and murdering a Paris estate agent and attempting to rape another&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/live/2024/dec/19/pelicot-rape-trial-dominique-gisele-verdict-france-latest-live"&gt;Pelicot rape trial verdicts – live updates&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Dominique Pelicot, who has been &lt;a href="https://www.theguardian.com/world/gisele-pelicot-rape-trial"&gt;jailed for 20 years&lt;/a&gt; for drugging his then wife, Gisèle Pelicot, and inviting men to rape her, faces a further investigation for the rape and murder of an estate agent in Paris in 1991, and an attempted rape in 1999, amid &lt;a href="https://www.theguardian.com/world/2024/dec/11/a-rapist-can-be-in-the-family-how-dominique-pelicot-became-one-of-the-worst-sexual-predators-in-history"&gt;questions&lt;/a&gt; over whether he could have been a serial offender for decades.&lt;/p&gt;&lt;p&gt;Investigators in Nanterre outside Paris have reopened two cold cases and placed Pelicot under formal investigation, as police consider potential links to other cases involving young estate agents. Pelicot could face another trial at a later date.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2024/dec/19/dominique-pelicot-further-investigation-rapes-murder"&gt;Continue reading...&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Russia-Ukraine war live: Putin says he is ready for talks ‘any time’ with Trump</title>
-      <link>https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia</link>
-      <description>&lt;p&gt;Russian leader is making annual end-of-year address and fielding questions from reporters&lt;/p&gt;&lt;p&gt;Poland summoned the chargé d’affaires of Belarus (a diplomat of a lower rank acting in place of an ambassador), &lt;strong&gt;Alexei Ponkratiev&lt;/strong&gt;, on Thursday to protest against what it called “aggressive actions” of the Belarusian KGB spy service towards Polish diplomats accredited in Belarus and other countries.&lt;/p&gt;&lt;p&gt;The Polish foreign ministry did not specify what actions it was accusing the Belarus agency of having taken, but said the continuation of such provocations would be met with a “symmetrical response from the Polish side”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia"&gt;Continue reading...&lt;/a&gt;</description>
+      <description>&lt;p&gt;Husband of Gisèle Pelicot suspected of raping and murdering a Paris estate agent and attempting to rape another&lt;/p&gt;&lt;p&gt;Dominique Pelicot, who has been &lt;a href="https://www.theguardian.com/world/gisele-pelicot-rape-trial"&gt;jailed for 20 years&lt;/a&gt; for drugging his then wife, Gisèle Pelicot, and inviting men to rape her, faces a further investigation for the rape and murder of an estate agent in Paris in 1991, and an attempted rape in 1999, amid &lt;a href="https://www.theguardian.com/world/2024/dec/11/a-rapist-can-be-in-the-family-how-dominique-pelicot-became-one-of-the-worst-sexual-predators-in-history"&gt;questions&lt;/a&gt; over whether he could have been a serial offender for decades.&lt;/p&gt;&lt;p&gt;Investigators in Nanterre outside Paris have reopened two cold cases and placed Pelicot under formal investigation, as police consider potential links to other cases involving young estate agents. Pelicot could face another trial at a later date.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2024/dec/19/dominique-pelicot-further-investigation-rapes-murder"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Middle East crisis live: Netanyahu says ‘whoever harms Israel will pay heavy price’ after Houthis claim attacks on Israel</title>
@@ -1441,9 +1415,24 @@
       <description>&lt;p&gt;Israeli prime minister says air force attacked targets in Yemen ‘in response to Houthi attacks’ as Houthis say they have attacked Tel Aviv overnight&lt;/p&gt;&lt;p&gt;&lt;strong&gt;At least 45,129 Palestinians have been killed and 107,338 injured in Israel’s military offensive on Gaza since 7 October 2023&lt;/strong&gt;, the Gaza health ministry said in a statement on Thursday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Iraq started on Thursday to send Syrian soldiers back to their homeland&lt;/strong&gt;, state media reported.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/middle-east-crisis-israel-houthis-yemen-airstrikes-latest-updates"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
-      <title>Tiny Coffins: Measles Is Killing Thousands of Children in Congo</title>
-      <link>https://www.nytimes.com/2024/12/18/health/measles-congo-vaccines.html</link>
-      <description>Problems with getting vaccines to families have left many children unvaccinated and in danger of contracting the virus.</description>
+      <title>UK arts and media reject plan to let AI firms use copyrighted material</title>
+      <link>https://www.theguardian.com/technology/2024/dec/19/uk-arts-and-media-reject-plan-to-let-ai-firms-use-copyrighted-material</link>
+      <description>&lt;p&gt;Exclusive: Coalition of musicians, photographers and newspapers insist existing copyright laws must be respected&lt;/p&gt;&lt;p&gt;Writers, publishers, musicians, photographers, movie producers and newspapers have rejected the Labour government’s plan to create a copyright exemption to help artificial intelligence companies train their algorithms.&lt;/p&gt;&lt;p&gt;In a joint statement, bodies representing thousands of creatives dismissed the proposal made by ministers on Tuesday that would allow companies such as Open AI, Google and Meta to train their AI systems on published works unless their owners actively opt out.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2024/dec/19/uk-arts-and-media-reject-plan-to-let-ai-firms-use-copyrighted-material"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Chaos in Congress after Trump rejects spending deal as government shutdown nears – live updates</title>
+      <link>https://www.theguardian.com/us-news/live/2024/dec/19/congress-government-shutdown-spending-bill-trump</link>
+      <description>&lt;p&gt;President-elect torpedoes bipartisan plan with less than 48 hours remaining until government shuts down for holidays&lt;/p&gt;&lt;p&gt;Just a few hours ago, &lt;strong&gt;Donald Trump&lt;/strong&gt; rejected a tentative deal in Congress to keep the government funded through the first few months of his term, and demanded lawmakers increase the country’s borrowing limit in any new compromise.&lt;/p&gt;&lt;p&gt;Now, the president-elect has modified his demands, by &lt;a href="https://x.com/GarrettHaake/status/1869744357886263420"&gt;telling NBC News&lt;/a&gt; in an interview that he wants the debt ceiling eliminated outright. “The Democrats have said they want to get rid of it. If they want to get rid of it, I would lead the charge,” Trump told the broadcaster.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/democrats"&gt;Democrats&lt;/a&gt;&lt;/strong&gt; appear content to let Republicans own the government funding fiasco, with the House minority leader, &lt;strong&gt;Hakeem Jeffries&lt;/strong&gt;, &lt;a href="https://x.com/repjeffries/status/1869493488460669104?s=46"&gt;tweeting&lt;/a&gt; that the GOP has “been ordered to shut down the government”.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The Wall Street Journal&lt;/strong&gt; has published &lt;a href="https://www.wsj.com/politics/biden-white-house-age-function-diminished-3906a839?st=PTbEyo&amp;amp;reflink=article_copyURL_share"&gt;a lengthy look&lt;/a&gt; into how the White House managed &lt;strong&gt;&lt;a href="https://www.theguardian.com/us-news/joebiden"&gt;Joe Biden&lt;/a&gt;&lt;/strong&gt;’s public ageing during his presidency and before – which was a major factor in his decision to end his re-election bid earlier this year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Biden and &lt;a href="https://www.theguardian.com/us-news/kamala-harris"&gt;Kamala Harris&lt;/a&gt;&lt;/strong&gt; have no public events on their schedule. The president is returning to Washington DC today from Delaware, while the vice-president flies this evening to Los Angeles.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/live/2024/dec/19/congress-government-shutdown-spending-bill-trump"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Starmer faces grilling over economy, public services and foreign policy – UK politics live</title>
+      <link>https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates</link>
+      <description>&lt;p&gt;PM to face liaison committee this afternoon&lt;/p&gt;&lt;p&gt;In her response to the statement from Karin Smyth, &lt;strong&gt;Caroline Johnson&lt;/strong&gt;, the shadow health minister, suggested the extra money for hospices would not fully compensate the extra costs the sector is facing because of the national insurance increase and the rise in the living wage. She said:&lt;/p&gt;&lt;p&gt;On October 30 the chancellor decided to break her election promise by increasing employers’ national insurance contributions and reducing the threshold at which employer contributions are payable.&lt;/p&gt;&lt;p&gt;It was later confirmed that hospices would not be exempted from this increase in costs. Now the government has announced new funding for the sector, which they had the audacity to call the biggest investment in a generation.&lt;/p&gt;&lt;p&gt;The biggest investment in a generation for hospices has been announced by the government today, ensuring that hospices can continue to deliver the highest quality end of life care possible for their patients, families, and loved ones.&lt;/p&gt;&lt;p&gt;The £100m funding will help hospices this year and next to provide the best end of life care to patients and their families in a supportive and dignified physical environment.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/live/2024/dec/19/keir-starmer-questions-liaison-committee-donald-trump-administration-uk-politics-latest-updates"&gt;Continue reading...&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>Russia-Ukraine war live: Zelenskyy calls Putin a ‘fantasiser’ over peace talks claim and says he wanted to ‘annihilate’ Ukraine’s army</title>
+      <link>https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia</link>
+      <description>&lt;p&gt;Ukrainian leader responds to Russian president’s claims that countries were on the verge of a deal to end hostilities in April 2022&lt;/p&gt;&lt;p&gt;Poland summoned the chargé d’affaires of Belarus (a diplomat of a lower rank acting in place of an ambassador), &lt;strong&gt;Alexei Ponkratiev&lt;/strong&gt;, on Thursday to protest against what it called “aggressive actions” of the Belarusian KGB spy service towards Polish diplomats accredited in Belarus and other countries.&lt;/p&gt;&lt;p&gt;The Polish foreign ministry did not specify what actions it was accusing the Belarus agency of having taken, but said the continuation of such provocations would be met with a “symmetrical response from the Polish side”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/live/2024/dec/19/russia-ukraine-war-live-zelenskyy-french-troop-plan-macron-russia"&gt;Continue reading...&lt;/a&gt;</description>
     </item>
     <item>
       <title>Wednesday Briefing: Russia Arrests a Suspected Assassin</title>
@@ -1536,14 +1525,14 @@
       <description>The Russian president said that he had not yet met with Bashar al-Assad, the ousted Syrian leader who fled to Moscow, but that he planned to.</description>
     </item>
     <item>
+      <title>Zelensky Raises Prospect of European Peacekeepers in Ukraine</title>
+      <link>https://www.nytimes.com/2024/12/19/world/europe/zelensky-europe-peacekeepers-russia.html</link>
+      <description>But many European leaders say that with no sign that Russia is interested in peace, it is too early to discuss the presence of peacekeeping forces.</description>
+    </item>
+    <item>
       <title>Live Updates: Dominique Pelicot and 50 Others Guilty in Rape Trial That Shook France</title>
       <link>https://www.nytimes.com/live/2024/12/19/world/france-rape-verdict-pelicot</link>
       <description>A court sentenced Mr. Pelicot to 20 years after he admitted to drugging and raping his wife, Gisèle, for nearly a decade, and inviting strangers to join him. The case has made her a feminist hero.</description>
-    </item>
-    <item>
-      <title>Verdicts awaited in Pelicot mass rape trial that shook France</title>
-      <link>https://www.france24.com/en/live-news/20241219-verdicts-awaited-in-rape-trial-that-shocked-france</link>
-      <description>The mass rape trial that has sent shockwaves through France and the world is expected to close on Thursday with the conviction of Dominique Pelicot, who has admitted sedating his ex-wife, Gisèle, and inviting scores of strangers into their bedroom to rape her over a decade.</description>
     </item>
     <item>
       <title>Elon Musk meets with UK far-right leader Nigel Farage</title>
@@ -1591,9 +1580,9 @@
       <description>No description</description>
     </item>
     <item>
-      <title>Macron arrives in Mayotte to assess aftermath of Cyclone Chido</title>
+      <title>Macron announces day of national mourning for Mayotte after cyclone devastation</title>
       <link>https://www.france24.com/en/europe/20241219-france-macron-arrives-in-mayotte-assess-cyclone-chido-damage</link>
-      <description>French President Emmanuel Macron arrived Thursday in Mayotte to survey the devastation wrought by Cyclone Chido on the Indian Ocean archipelago. French authorities said at least 31 people have died and more than 1,500 people were injured, more than 200 criticall.</description>
+      <description>French President Emmanuel Macron arrived Thursday in Mayotte to survey the devastation wrought by Cyclone Chido on the Indian Ocean archipelago. French authorities said at least 31 people have died and more than 1,500 people were injured, more than 200 critical.</description>
     </item>
     <item>
       <title>Burkina Faso releases four French nationals after Morocco intervenes</title>
@@ -1633,7 +1622,7 @@
     <item>
       <title>Does LR risk getting swallowed up by centre or losing themselves, clinging ever closer to far right?</title>
       <link>https://www.france24.com/en/video/20241219-does-lr-risk-getting-swallowed-up-by-centre-or-losing-themselves-clinging-ever-closer-to-far-right</link>
-      <description>France's Les Républicains face incredible challenges to "articulate some difference and find themselves a role" in such a volatile political landscape. All the while, Sarkozy remains "very influential player in background of French politics, moving the chess pieces on the board for the centre-right." For in-depth analysis and a deeper perspective on the major challenges that lie ahead for the LR, Sarkozy and the newly-appointed PM François Bayrou, FRANCE 24's Charli James welcomes Dr Andrew Smith, Historian of modern France and Lecturer in Liberal Arts at Queen Mary University of London.</description>
+      <description>France's Les Républicains face incredible challenges to "articulate some difference and find themselves a role" in such a volatile political landscape. All the while, Sarkozy remains "a very influential player in the background of French politics, moving the chess pieces on the board for the centre-right." For in-depth analysis and a deeper perspective on the major challenges that lie ahead for the LR, Sarkozy and the newly-appointed PM François Bayrou, FRANCE 24's Charli James welcomes Dr Andrew Smith, Historian of modern France and Lecturer in Liberal Arts at Queen Mary University of London.</description>
     </item>
     <item>
       <title>France footballer Paul Pogba’s brother among six sentenced to prison in extortion case</title>
@@ -1641,9 +1630,9 @@
       <description>Six men including the brother of France international Paul Pogba were sentenced to prison terms of between three and eight years on Thursday after being convicted of extortion attempts targeting the footballer.</description>
     </item>
     <item>
-      <title>The Russian tanker disaster and an oil leak in Kerch Strait: What it means</title>
-      <link>https://www.aljazeera.com/news/2024/12/19/the-russian-tanker-disaster-and-an-oil-leak-in-kerch-strait-what-it-means?traffic_source=rss</link>
-      <description>During wartime, the effects on the environment from such accidents are likely to be far worse than usual.</description>
+      <title>🔴 Macron declares day of national mourning for cyclone-hit Mayotte as December 23</title>
+      <link>https://www.france24.com/en/europe/20241219-france-macron-arrives-in-mayotte-assess-cyclone-chido-damage</link>
+      <description>No description</description>
     </item>
     <item>
       <title>Video: Israeli airstrikes target Yemen after Houthi missile attack</title>
@@ -1741,6 +1730,11 @@
       <description>W.E.B. Du Bois, one of the founders of the NAACP, the first civil rights organisation in America.</description>
     </item>
     <item>
+      <title>From Gaza to the Arctic: A Palestinian filmmaker caught between two worlds</title>
+      <link>https://www.aljazeera.com/program/witness/2024/12/19/from-gaza-to-the-arctic-a-palestinian-filmmaker-caught-between-two-worlds?traffic_source=rss</link>
+      <description>Mohamed Jabaly finds himself stateless in Norway when the Gaza border suddenly closes.</description>
+    </item>
+    <item>
       <title>0% intro APR until 2024 is 100% insane</title>
       <link>https://www.fool.com/the-ascent/credit-cards/landing/wells-fargo-reflect-review/?utm_site=theascent&amp;utm_campaign=ta-cc-co-cnn-welref2-ron-5-hp-sfpb&amp;utm_medium=cpc&amp;utm_source=cnn</link>
       <description>No description</description>
@@ -1769,11 +1763,6 @@
       <title>Want Cash Out of Your Home? Here Are Your Best Options</title>
       <link>https://www.lendingtree.com/?splitterid=home-equity&amp;cproduct=he&amp;cchannel=content&amp;csource=cnn&amp;cmethod=heform&amp;ccreative=cashoutoptions_housemoneystack&amp;placement_name=sectionfronts&amp;ad_headline=cashoutoptions&amp;ad_image_name=housemoneystack&amp;ctype=sectionfronts&amp;bdst=revshare&amp;mtaid=AC53E&amp;esourceid=6348616</link>
       <description>No description</description>
-    </item>
-    <item>
-      <title>Tens of thousands without water in Mayotte as curfew brought in</title>
-      <link>https://www.bbc.com/news/articles/c89x0j1le4lo</link>
-      <description>Rescuers race to find missing people and survivors in the French territory devastated by Cyclone Chido.</description>
     </item>
     <item>
       <title>Embattled Liberian speaker questioned by police over parliament fire</title>
@@ -1869,6 +1858,11 @@
       <title>Dozens of children killed in crush at Nigerian funfair</title>
       <link>https://www.bbc.com/news/articles/c89xdd07585o</link>
       <description>The widely advertised event saw large numbers of children show up, leading to a deadly crush.</description>
+    </item>
+    <item>
+      <title>Who are the men convicted in the Gisèle Pelicot rape trial</title>
+      <link>https://www.bbc.com/news/articles/c785nm5g5y1o</link>
+      <description>Dominique Pelicot has been found guilty of drugging his ex-wife, Gisèle, raping her and inviting dozens of men to abuse her.</description>
     </item>
   </channel>
 </rss>
